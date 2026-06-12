@@ -1,0 +1,10 @@
+split,algorithm,execution_time_ms,objective_cost,avg_hourly_cost,avg_efficiency,irrigation_on_hours,unsafe_outdoor_hours,convergence_iterations
+train,A_Star,14.41,50240.12,34.889,0.7872,1187,225,1440
+train,Simulated_Annealing,66.39,50315.25,34.936,0.7869,1187,225,21600
+train,Hill_Climbing,21.58,50421.86,34.682,0.7905,1187,225,4320
+validation,A_Star,3.32,11774.84,32.708,0.8104,242,51,360
+validation,Simulated_Annealing,24.4,11797.3,32.77,0.8098,242,51,5400
+validation,Hill_Climbing,3.98,11774.84,32.708,0.8104,242,51,1080
+test,A_Star,4.09,11664.71,32.402,0.8249,233,54,360
+test,Simulated_Annealing,21.65,11686.77,32.463,0.8242,233,54,5400
+test,Hill_Climbing,3.37,11664.71,32.402,0.8249,233,54,1080

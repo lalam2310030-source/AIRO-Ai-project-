@@ -1,0 +1,164 @@
+{
+  "generated_at": "2026-06-11 05:52:02 UTC",
+  "source_dataset": "bd_agrohome_hourly_90days.csv",
+  "currency": "\u09f3",
+  "splits": {
+    "train": {
+      "rows": 1440,
+      "start": "2026-04-01 00:00:00",
+      "end": "2026-05-30 23:00:00",
+      "districts": [
+        "Barisal",
+        "Chattogram",
+        "Dhaka",
+        "Khulna",
+        "Mymensingh",
+        "Rajshahi",
+        "Rangpur",
+        "Sylhet"
+      ]
+    },
+    "validation": {
+      "rows": 360,
+      "start": "2026-05-31 00:00:00",
+      "end": "2026-06-14 23:00:00",
+      "districts": [
+        "Barisal",
+        "Chattogram",
+        "Dhaka",
+        "Khulna",
+        "Mymensingh",
+        "Rajshahi",
+        "Rangpur",
+        "Sylhet"
+      ]
+    },
+    "test": {
+      "rows": 360,
+      "start": "2026-06-15 00:00:00",
+      "end": "2026-06-29 23:00:00",
+      "districts": [
+        "Barisal",
+        "Chattogram",
+        "Dhaka",
+        "Khulna",
+        "Mymensingh",
+        "Rajshahi",
+        "Rangpur",
+        "Sylhet"
+      ]
+    }
+  },
+  "results": [
+    {
+      "split": "train",
+      "algorithm": "A_Star",
+      "execution_time_ms": 14.41,
+      "objective_cost": 50240.12,
+      "avg_hourly_cost": 34.889,
+      "avg_efficiency": 0.7872,
+      "irrigation_on_hours": 1187,
+      "unsafe_outdoor_hours": 225,
+      "convergence_iterations": 1440
+    },
+    {
+      "split": "train",
+      "algorithm": "Simulated_Annealing",
+      "execution_time_ms": 66.39,
+      "objective_cost": 50315.25,
+      "avg_hourly_cost": 34.936,
+      "avg_efficiency": 0.7869,
+      "irrigation_on_hours": 1187,
+      "unsafe_outdoor_hours": 225,
+      "convergence_iterations": 21600
+    },
+    {
+      "split": "train",
+      "algorithm": "Hill_Climbing",
+      "execution_time_ms": 21.58,
+      "objective_cost": 50421.86,
+      "avg_hourly_cost": 34.682,
+      "avg_efficiency": 0.7905,
+      "irrigation_on_hours": 1187,
+      "unsafe_outdoor_hours": 225,
+      "convergence_iterations": 4320
+    },
+    {
+      "split": "validation",
+      "algorithm": "A_Star",
+      "execution_time_ms": 3.32,
+      "objective_cost": 11774.84,
+      "avg_hourly_cost": 32.708,
+      "avg_efficiency": 0.8104,
+      "irrigation_on_hours": 242,
+      "unsafe_outdoor_hours": 51,
+      "convergence_iterations": 360
+    },
+    {
+      "split": "validation",
+      "algorithm": "Simulated_Annealing",
+      "execution_time_ms": 24.4,
+      "objective_cost": 11797.3,
+      "avg_hourly_cost": 32.77,
+      "avg_efficiency": 0.8098,
+      "irrigation_on_hours": 242,
+      "unsafe_outdoor_hours": 51,
+      "convergence_iterations": 5400
+    },
+    {
+      "split": "validation",
+      "algorithm": "Hill_Climbing",
+      "execution_time_ms": 3.98,
+      "objective_cost": 11774.84,
+      "avg_hourly_cost": 32.708,
+      "avg_efficiency": 0.8104,
+      "irrigation_on_hours": 242,
+      "unsafe_outdoor_hours": 51,
+      "convergence_iterations": 1080
+    },
+    {
+      "split": "test",
+      "algorithm": "A_Star",
+      "execution_time_ms": 4.09,
+      "objective_cost": 11664.71,
+      "avg_hourly_cost": 32.402,
+      "avg_efficiency": 0.8249,
+      "irrigation_on_hours": 233,
+      "unsafe_outdoor_hours": 54,
+      "convergence_iterations": 360
+    },
+    {
+      "split": "test",
+      "algorithm": "Simulated_Annealing",
+      "execution_time_ms": 21.65,
+      "objective_cost": 11686.77,
+      "avg_hourly_cost": 32.463,
+      "avg_efficiency": 0.8242,
+      "irrigation_on_hours": 233,
+      "unsafe_outdoor_hours": 54,
+      "convergence_iterations": 5400
+    },
+    {
+      "split": "test",
+      "algorithm": "Hill_Climbing",
+      "execution_time_ms": 3.37,
+      "objective_cost": 11664.71,
+      "avg_hourly_cost": 32.402,
+      "avg_efficiency": 0.8249,
+      "irrigation_on_hours": 233,
+      "unsafe_outdoor_hours": 54,
+      "convergence_iterations": 1080
+    }
+  ],
+  "best_on_test": {
+    "split": "test",
+    "algorithm": "Hill_Climbing",
+    "execution_time_ms": 3.37,
+    "objective_cost": 11664.71,
+    "avg_hourly_cost": 32.402,
+    "avg_efficiency": 0.8249,
+    "irrigation_on_hours": 233,
+    "unsafe_outdoor_hours": 54,
+    "convergence_iterations": 1080
+  }
+}

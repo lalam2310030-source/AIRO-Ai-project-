@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-06-11 05:52:02 UTC",
+  "baseline": {
+    "train": 56698.56,
+    "validation": 13362.26,
+    "test": 13236.25
+  },
+  "summary": {
+    "A_Star": {
+      "algorithm": "A_Star",
+      "total_objective_cost": 73679.67,
+      "avg_execution_time_ms": 7.27,
+      "avg_convergence_iterations": 720.0,
+      "avg_efficiency": 0.8075,
+      "avg_hourly_cost": 33.333,
+      "avg_cost_reduction_percent": 11.715,
+      "overall_cost_reduction_percent": 11.546
+    },
+    "Simulated_Annealing": {
+      "algorithm": "Simulated_Annealing",
+      "total_objective_cost": 73799.32,
+      "avg_execution_time_ms": 37.48,
+      "avg_convergence_iterations": 10800.0,
+      "avg_efficiency": 0.807,
+      "avg_hourly_cost": 33.3897,
+      "avg_cost_reduction_percent": 11.559,
+      "overall_cost_reduction_percent": 11.402
+    },
+    "Hill_Climbing": {
+      "algorithm": "Hill_Climbing",
+      "total_objective_cost": 73861.41,
+      "avg_execution_time_ms": 9.64,
+      "avg_convergence_iterations": 2160.0,
+      "avg_efficiency": 0.8086,
+      "avg_hourly_cost": 33.264,
+      "avg_cost_reduction_percent": 11.608,
+      "overall_cost_reduction_percent": 11.328
+    }
+  }
+}

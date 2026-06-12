@@ -1,0 +1,361 @@
+timestamp,district,season,hour,temperature_c,humidity_percent,rainfall_mm,solar_irradiance_wm2,wind_speed_ms,pressure_hpa,soil_moisture_percent,crop_stage,irrigation_demand_level,electricity_consumption_kwh,water_consumption_m3,gas_consumption_m3,renewable_energy_kwh,weather_condition,heat_index_c,smart_irrigation_action,outdoor_advice,farmer_field_advice,electricity_cost_tk,water_cost_tk,gas_cost_tk,hourly_cost_tk,currency_symbol
+2026-05-31 00:00:00,Barisal,Pre-Monsoon,0,25.97,68,0,0,4,1009.6,36,Maturity,4,3.38,1.67,0.99,1,Clear,31.41,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.73,4.18,3.17,36.08,৳
+2026-05-31 01:00:00,Barisal,Pre-Monsoon,1,25.8,68,0,0,5,1009.6,36,Maturity,4,3.44,1.67,1.03,1,Clear,31.24,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.24,4.18,3.3,36.72,৳
+2026-05-31 02:00:00,Barisal,Pre-Monsoon,2,25.97,68,0,0,5,1009.6,36,Maturity,4,3.46,1.67,1.05,1,Clear,31.41,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.41,4.18,3.36,36.95,৳
+2026-05-31 03:00:00,Barisal,Pre-Monsoon,3,26.47,67,0,0,5,1009.6,36,Maturity,4,3.44,1.67,1.06,1,Clear,31.83,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.24,4.18,3.39,36.81,৳
+2026-05-31 04:00:00,Barisal,Pre-Monsoon,4,27.26,67,0,0,5,1009.6,36,Maturity,4,3.38,1.67,1.05,1,Clear,32.62,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.73,4.18,3.36,36.27,৳
+2026-05-31 05:00:00,Barisal,Pre-Monsoon,5,28.3,66,0,0,5,1009.6,36,Maturity,4,3.28,1.67,1.03,1,Clear,33.58,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.88,4.18,3.3,35.36,৳
+2026-05-31 06:00:00,Barisal,Pre-Monsoon,6,29.51,65,0,0,4,1009.6,36,Maturity,4,3.16,1.67,0.99,1,Clear,34.71,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.86,4.18,3.17,34.21,৳
+2026-05-31 07:00:00,Barisal,Pre-Monsoon,7,30.8,64,0,197,4,1009.6,36,Maturity,4,3.37,1.67,0.94,4,Clear,35.92,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.64,4.18,3.01,35.83,৳
+2026-05-31 08:00:00,Barisal,Pre-Monsoon,8,32.09,72,5,253,4,1005.1,45,Maturity,2,3.07,1.11,0.88,5,Light Rain,37.85,Water OFF,Go Outside With Caution,Routine Check Optional,26.1,2.78,2.82,31.7,৳
+2026-05-31 09:00:00,Barisal,Pre-Monsoon,9,33.3,67,3,430,3,1006.9,39,Maturity,3,3.67,1.39,0.82,9,Light Rain,38.66,Water OFF,Go Outside With Caution,Routine Check Optional,31.2,3.47,2.62,37.29,৳
+2026-05-31 10:00:00,Barisal,Pre-Monsoon,10,34.34,64,1,614,4,1008.7,35,Maturity,4,4.26,1.67,0.88,12,Light Rain,39.46,Water OFF,Go Outside With Caution,Routine Check Optional,36.21,4.18,2.82,43.21,৳
+2026-05-31 11:00:00,Barisal,Pre-Monsoon,11,35.13,66,3,587,4,1006.9,37,Maturity,3,5.22,1.39,0.94,12,Light Rain,40.41,Water OFF,Go Outside With Caution,Routine Check Optional,44.37,3.47,3.01,50.85,৳
+2026-05-31 12:00:00,Barisal,Pre-Monsoon,12,35.63,61,0,760,4,1009.6,32,Maturity,5,5.87,1.95,0.99,15,Sunny,40.51,Water ON,Safe to Go Outside,Go to Field for Irrigation,49.9,4.88,3.17,57.95,৳
+2026-05-31 13:00:00,Barisal,Pre-Monsoon,13,35.8,61,0,734,5,1009.6,31,Maturity,5,5.88,1.95,1.03,15,Sunny,40.68,Water ON,Safe to Go Outside,Go to Field for Irrigation,49.98,4.88,3.3,58.16,৳
+2026-05-31 14:00:00,Barisal,Pre-Monsoon,14,35.63,61,0,658,5,1009.6,32,Maturity,5,5.76,1.95,1.05,13,Sunny,40.51,Water ON,Safe to Go Outside,Go to Field for Irrigation,48.96,4.88,3.36,57.2,৳
+2026-05-31 15:00:00,Barisal,Pre-Monsoon,15,35.13,61,0,537,5,1009.6,32,Maturity,4,5.4,1.67,1.06,11,Sunny,40.01,Water ON,Safe to Go Outside,Go to Field for Irrigation,45.9,4.18,3.39,53.47,৳
+2026-05-31 16:00:00,Barisal,Pre-Monsoon,16,34.34,62,0,380,5,1009.6,33,Maturity,4,4.06,1.67,1.05,8,Clear,39.3,Water ON,Safe to Go Outside,Go to Field for Irrigation,34.51,4.18,3.36,42.05,৳
+2026-05-31 17:00:00,Barisal,Pre-Monsoon,17,33.3,63,0,197,5,1009.6,34,Maturity,4,3.64,1.67,1.03,4,Clear,38.34,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.94,4.18,3.3,38.42,৳
+2026-05-31 18:00:00,Barisal,Pre-Monsoon,18,32.09,64,0,0,4,1009.6,36,Maturity,4,3.16,1.67,0.99,1,Clear,37.21,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.86,4.18,3.17,34.21,৳
+2026-05-31 19:00:00,Barisal,Pre-Monsoon,19,30.8,64,0,0,4,1009.6,36,Maturity,4,3.01,1.67,0.94,1,Clear,35.92,Water ON,Safe to Go Outside,Go to Field for Irrigation,25.58,4.18,3.01,32.77,৳
+2026-05-31 20:00:00,Barisal,Pre-Monsoon,20,29.51,65,0,0,3,1009.6,36,Maturity,4,2.86,1.67,0.88,0,Clear,34.71,Water ON,Safe to Go Outside,Go to Field for Irrigation,24.31,4.18,2.82,31.31,৳
+2026-05-31 21:00:00,Barisal,Pre-Monsoon,21,28.3,66,0,0,3,1009.6,36,Maturity,4,3.01,1.67,0.82,0,Clear,33.58,Water ON,Safe to Go Outside,Go to Field for Irrigation,25.58,4.18,2.62,32.38,৳
+2026-05-31 22:00:00,Barisal,Pre-Monsoon,22,27.26,67,0,0,3,1009.6,36,Maturity,4,3.16,1.67,0.88,0,Clear,32.62,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.86,4.18,2.82,33.86,৳
+2026-05-31 23:00:00,Barisal,Pre-Monsoon,23,26.47,67,0,0,4,1009.6,36,Maturity,4,3.28,1.67,0.94,1,Clear,31.83,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.88,4.18,3.01,35.07,৳
+2026-06-01 00:00:00,Chattogram,Monsoon,0,24.97,69,0,0,4,1009.44,36,Maturity,4,3.48,1.67,0.99,1,Clear,30.49,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.58,4.18,3.17,36.93,৳
+2026-06-01 01:00:00,Chattogram,Monsoon,1,24.8,69,0,0,5,1009.44,36,Maturity,4,3.54,1.67,1.03,1,Clear,30.32,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.09,4.18,3.3,37.57,৳
+2026-06-01 02:00:00,Chattogram,Monsoon,2,24.97,83,9,0,6,1001.34,52,Maturity,0,3.08,0.55,1.05,1,Heavy Rain,31.61,Water OFF,Do Not Go Outside,Delay Field Visit,26.18,1.38,3.36,30.92,৳
+2026-06-01 03:00:00,Chattogram,Monsoon,3,25.47,84,10,0,7,1000.44,54,Maturity,0,3.06,0.55,1.06,1,Heavy Rain,32.19,Water OFF,Do Not Go Outside,Delay Field Visit,26.01,1.38,3.39,30.78,৳
+2026-06-01 04:00:00,Chattogram,Monsoon,4,26.26,84,10,0,7,1000.44,54,Maturity,0,3.0,0.55,1.05,1,Heavy Rain,32.98,Water OFF,Do Not Go Outside,Delay Field Visit,25.5,1.38,3.36,30.24,৳
+2026-06-01 05:00:00,Chattogram,Monsoon,5,27.3,83,10,0,6,1000.44,54,Maturity,0,2.9,0.55,1.03,1,Heavy Rain,33.94,Water OFF,Do Not Go Outside,Delay Field Visit,24.65,1.38,3.3,29.33,৳
+2026-06-01 06:00:00,Chattogram,Monsoon,6,28.51,80,9,0,6,1001.34,52,Maturity,0,2.78,0.55,0.99,1,Heavy Rain,34.91,Water OFF,Do Not Go Outside,Delay Field Visit,23.63,1.38,3.17,28.18,৳
+2026-06-01 07:00:00,Chattogram,Monsoon,7,29.8,76,7,105,5,1003.14,49,Maturity,1,2.94,0.83,0.94,3,Light Rain,35.88,Water OFF,Go Outside With Caution,Routine Check Optional,24.99,2.07,3.01,30.07,৳
+2026-06-01 08:00:00,Chattogram,Monsoon,8,31.09,72,5,253,4,1004.94,45,Maturity,2,3.17,1.11,0.88,5,Light Rain,36.85,Water OFF,Go Outside With Caution,Routine Check Optional,26.94,2.78,2.82,32.54,৳
+2026-06-01 09:00:00,Chattogram,Monsoon,9,32.3,63,0,537,3,1009.44,36,Maturity,4,4.08,1.67,0.82,11,Sunny,37.34,Water ON,Safe to Go Outside,Go to Field for Irrigation,34.68,4.18,2.62,41.48,৳
+2026-06-01 10:00:00,Chattogram,Monsoon,10,33.33,63,0,658,3,1009.44,34,Maturity,4,4.44,1.67,0.88,13,Sunny,38.37,Water ON,Safe to Go Outside,Go to Field for Irrigation,37.74,4.18,2.82,44.74,৳
+2026-06-01 11:00:00,Chattogram,Monsoon,11,34.13,62,0,734,4,1009.44,33,Maturity,4,4.7,1.67,0.94,15,Sunny,39.09,Water ON,Safe to Go Outside,Go to Field for Irrigation,39.95,4.18,3.01,47.14,৳
+2026-06-01 12:00:00,Chattogram,Monsoon,12,34.63,62,0,760,4,1009.44,33,Maturity,4,4.84,1.67,0.99,15,Sunny,39.59,Water ON,Safe to Go Outside,Go to Field for Irrigation,41.14,4.18,3.17,48.49,৳
+2026-06-01 13:00:00,Chattogram,Monsoon,13,34.8,62,0,734,5,1009.44,33,Maturity,4,4.86,1.67,1.03,15,Sunny,39.76,Water ON,Safe to Go Outside,Go to Field for Irrigation,41.31,4.18,3.3,48.79,৳
+2026-06-01 14:00:00,Chattogram,Monsoon,14,34.63,62,0,658,5,1009.44,33,Maturity,4,4.74,1.67,1.05,13,Sunny,39.59,Water ON,Safe to Go Outside,Go to Field for Irrigation,40.29,4.18,3.36,47.83,৳
+2026-06-01 15:00:00,Chattogram,Monsoon,15,34.13,62,0,537,5,1009.44,33,Maturity,4,4.5,1.67,1.06,11,Sunny,39.09,Water ON,Safe to Go Outside,Go to Field for Irrigation,38.25,4.18,3.39,45.82,৳
+2026-06-01 16:00:00,Chattogram,Monsoon,16,33.33,63,0,380,5,1009.44,34,Maturity,4,4.16,1.67,1.05,8,Clear,38.37,Water ON,Safe to Go Outside,Go to Field for Irrigation,35.36,4.18,3.36,42.9,৳
+2026-06-01 17:00:00,Chattogram,Monsoon,17,32.3,63,0,197,5,1009.44,36,Maturity,4,3.73,1.67,1.03,4,Clear,37.34,Water ON,Safe to Go Outside,Go to Field for Irrigation,31.7,4.18,3.3,39.18,৳
+2026-06-01 18:00:00,Chattogram,Monsoon,18,31.09,64,0,0,4,1009.44,36,Maturity,4,3.26,1.67,0.99,1,Clear,36.21,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.71,4.18,3.17,35.06,৳
+2026-06-01 19:00:00,Chattogram,Monsoon,19,29.8,65,0,0,4,1009.44,36,Maturity,4,3.11,1.67,0.94,1,Clear,35.0,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.44,4.18,3.01,33.63,৳
+2026-06-01 20:00:00,Chattogram,Monsoon,20,28.51,66,0,0,3,1009.44,36,Maturity,4,2.96,1.67,0.88,0,Clear,33.79,Water ON,Safe to Go Outside,Go to Field for Irrigation,25.16,4.18,2.82,32.16,৳
+2026-06-01 21:00:00,Chattogram,Monsoon,21,27.3,67,0,0,3,1009.44,36,Maturity,4,3.11,1.67,0.82,0,Clear,32.66,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.44,4.18,2.62,33.24,৳
+2026-06-01 22:00:00,Chattogram,Monsoon,22,26.26,68,0,0,3,1009.44,36,Maturity,4,3.26,1.67,0.88,0,Clear,31.7,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.71,4.18,2.82,34.71,৳
+2026-06-01 23:00:00,Chattogram,Monsoon,23,25.47,68,0,0,4,1009.44,36,Maturity,4,3.38,1.67,0.94,1,Clear,30.91,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.73,4.18,3.01,35.92,৳
+2026-06-02 00:00:00,Sylhet,Monsoon,0,25.59,76,5,0,5,1004.9,45,Maturity,2,3.2,1.11,0.99,1,Light Rain,31.67,Water OFF,Go Outside With Caution,Routine Check Optional,27.2,2.78,3.17,33.15,৳
+2026-06-02 01:00:00,Sylhet,Monsoon,1,25.42,79,7,0,6,1003.1,49,Maturity,1,3.14,0.83,1.03,1,Light Rain,31.74,Water OFF,Go Outside With Caution,Routine Check Optional,26.69,2.07,3.3,32.06,৳
+2026-06-02 02:00:00,Sylhet,Monsoon,2,25.59,82,9,0,6,1001.3,52,Maturity,0,3.04,0.55,1.05,1,Heavy Rain,32.15,Water OFF,Do Not Go Outside,Delay Field Visit,25.84,1.38,3.36,30.58,৳
+2026-06-02 03:00:00,Sylhet,Monsoon,3,26.09,84,10,0,7,1000.4,54,Maturity,0,3.02,0.55,1.06,1,Heavy Rain,32.81,Water OFF,Do Not Go Outside,Delay Field Visit,25.67,1.38,3.39,30.44,৳
+2026-06-02 04:00:00,Sylhet,Monsoon,4,26.88,67,0,0,5,1009.4,36,Maturity,4,3.44,1.67,1.05,1,Clear,32.24,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.24,4.18,3.36,36.78,৳
+2026-06-02 05:00:00,Sylhet,Monsoon,5,27.92,66,0,0,5,1009.4,36,Maturity,4,3.34,1.67,1.03,1,Clear,33.2,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.39,4.18,3.3,35.87,৳
+2026-06-02 06:00:00,Sylhet,Monsoon,6,29.12,66,0,0,4,1009.4,36,Maturity,4,3.22,1.67,0.99,1,Clear,34.4,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.37,4.18,3.17,34.72,৳
+2026-06-02 07:00:00,Sylhet,Monsoon,7,30.42,65,0,197,4,1009.4,36,Maturity,4,3.43,1.67,0.94,4,Clear,35.62,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.16,4.18,3.01,36.35,৳
+2026-06-02 08:00:00,Sylhet,Monsoon,8,31.71,64,0,380,3,1009.4,36,Maturity,4,3.6,1.67,0.88,8,Clear,36.83,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.6,4.18,2.82,37.6,৳
+2026-06-02 09:00:00,Sylhet,Monsoon,9,32.92,63,0,537,3,1009.4,35,Maturity,4,4.04,1.67,0.82,11,Sunny,37.96,Water ON,Safe to Go Outside,Go to Field for Irrigation,34.34,4.18,2.62,41.14,৳
+2026-06-02 10:00:00,Sylhet,Monsoon,10,33.95,62,0,658,3,1009.4,34,Maturity,4,4.41,1.67,0.88,13,Sunny,38.91,Water ON,Safe to Go Outside,Go to Field for Irrigation,37.48,4.18,2.82,44.48,৳
+2026-06-02 11:00:00,Sylhet,Monsoon,11,34.75,62,0,734,4,1009.4,33,Maturity,4,4.67,1.67,0.94,15,Sunny,39.71,Water ON,Safe to Go Outside,Go to Field for Irrigation,39.7,4.18,3.01,46.89,৳
+2026-06-02 12:00:00,Sylhet,Monsoon,12,35.25,61,0,760,4,1009.4,32,Maturity,4,5.81,1.67,0.99,15,Sunny,40.13,Water ON,Safe to Go Outside,Go to Field for Irrigation,49.38,4.18,3.17,56.73,৳
+2026-06-02 13:00:00,Sylhet,Monsoon,13,35.42,61,0,734,5,1009.4,32,Maturity,5,5.94,1.95,1.03,15,Sunny,40.3,Water ON,Safe to Go Outside,Go to Field for Irrigation,50.49,4.88,3.3,58.67,৳
+2026-06-02 14:00:00,Sylhet,Monsoon,14,35.25,61,0,658,5,1009.4,32,Maturity,4,5.71,1.67,1.05,13,Sunny,40.13,Water ON,Safe to Go Outside,Go to Field for Irrigation,48.54,4.18,3.36,56.08,৳
+2026-06-02 15:00:00,Sylhet,Monsoon,15,34.75,62,0,537,5,1009.4,33,Maturity,4,4.47,1.67,1.06,11,Sunny,39.71,Water ON,Safe to Go Outside,Go to Field for Irrigation,37.99,4.18,3.39,45.56,৳
+2026-06-02 16:00:00,Sylhet,Monsoon,16,33.95,62,0,380,5,1009.4,34,Maturity,4,4.12,1.67,1.05,8,Clear,38.91,Water ON,Safe to Go Outside,Go to Field for Irrigation,35.02,4.18,3.36,42.56,৳
+2026-06-02 17:00:00,Sylhet,Monsoon,17,32.92,63,0,197,5,1009.4,35,Maturity,4,3.7,1.67,1.03,4,Clear,37.96,Water ON,Safe to Go Outside,Go to Field for Irrigation,31.45,4.18,3.3,38.93,৳
+2026-06-02 18:00:00,Sylhet,Monsoon,18,31.71,64,0,0,4,1009.4,36,Maturity,4,3.22,1.67,0.99,1,Clear,36.83,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.37,4.18,3.17,34.72,৳
+2026-06-02 19:00:00,Sylhet,Monsoon,19,30.42,76,7,0,5,1003.1,49,Maturity,1,2.72,0.83,0.94,1,Light Rain,36.5,Water OFF,Go Outside With Caution,Routine Check Optional,23.12,2.07,3.01,28.2,৳
+2026-06-02 20:00:00,Sylhet,Monsoon,20,29.12,74,5,0,4,1004.9,45,Maturity,2,2.68,1.11,0.88,1,Light Rain,35.04,Water OFF,Go Outside With Caution,Routine Check Optional,22.78,2.78,2.82,28.38,৳
+2026-06-02 21:00:00,Sylhet,Monsoon,21,27.92,71,3,0,3,1006.7,41,Maturity,2,2.84,1.11,0.82,0,Light Rain,33.6,Water OFF,Go Outside With Caution,Routine Check Optional,24.14,2.78,2.62,29.54,৳
+2026-06-02 22:00:00,Sylhet,Monsoon,22,26.88,69,1,0,4,1008.5,38,Maturity,3,3.1,1.39,0.88,1,Light Rain,32.4,Water OFF,Go Outside With Caution,Routine Check Optional,26.35,3.47,2.82,32.64,৳
+2026-06-02 23:00:00,Sylhet,Monsoon,23,26.09,73,3,0,4,1006.7,41,Maturity,2,3.1,1.11,0.94,1,Light Rain,31.93,Water OFF,Go Outside With Caution,Routine Check Optional,26.35,2.78,3.01,32.14,৳
+2026-06-03 00:00:00,Rangpur,Monsoon,0,25.59,68,0,0,4,1009.51,36,Maturity,4,3.3,1.67,0.99,1,Clear,31.03,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.05,4.18,3.17,35.4,৳
+2026-06-03 01:00:00,Rangpur,Monsoon,1,25.42,68,0,0,5,1009.51,36,Maturity,4,3.36,1.67,1.03,1,Clear,30.86,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.56,4.18,3.3,36.04,৳
+2026-06-03 02:00:00,Rangpur,Monsoon,2,25.59,68,0,0,5,1009.51,36,Maturity,4,3.38,1.67,1.05,1,Clear,31.03,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.73,4.18,3.36,36.27,৳
+2026-06-03 03:00:00,Rangpur,Monsoon,3,26.09,68,0,0,5,1009.51,36,Maturity,4,3.36,1.67,1.06,1,Clear,31.53,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.56,4.18,3.39,36.13,৳
+2026-06-03 04:00:00,Rangpur,Monsoon,4,26.88,67,0,0,5,1009.51,36,Maturity,4,3.3,1.67,1.05,1,Clear,32.24,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.05,4.18,3.36,35.59,৳
+2026-06-03 05:00:00,Rangpur,Monsoon,5,27.92,66,0,0,5,1009.51,36,Maturity,4,3.2,1.67,1.03,1,Clear,33.2,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.2,4.18,3.3,34.68,৳
+2026-06-03 06:00:00,Rangpur,Monsoon,6,29.12,66,0,0,4,1009.51,36,Maturity,4,3.08,1.67,0.99,1,Clear,34.4,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.18,4.18,3.17,33.53,৳
+2026-06-03 07:00:00,Rangpur,Monsoon,7,30.42,65,0,197,4,1009.51,36,Maturity,4,3.29,1.67,0.94,4,Clear,35.62,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.96,4.18,3.01,35.15,৳
+2026-06-03 08:00:00,Rangpur,Monsoon,8,31.71,64,0,380,3,1009.51,36,Maturity,4,3.46,1.67,0.88,8,Clear,36.83,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.41,4.18,2.82,36.41,৳
+2026-06-03 09:00:00,Rangpur,Monsoon,9,32.92,63,0,537,3,1009.51,35,Maturity,4,3.9,1.67,0.82,11,Sunny,37.96,Water ON,Safe to Go Outside,Go to Field for Irrigation,33.15,4.18,2.62,39.95,৳
+2026-06-03 10:00:00,Rangpur,Monsoon,10,33.95,62,0,658,3,1009.51,34,Maturity,4,4.26,1.67,0.88,13,Sunny,38.91,Water ON,Safe to Go Outside,Go to Field for Irrigation,36.21,4.18,2.82,43.21,৳
+2026-06-03 11:00:00,Rangpur,Monsoon,11,34.75,62,0,734,4,1009.51,33,Maturity,4,4.53,1.67,0.94,15,Sunny,39.71,Water ON,Safe to Go Outside,Go to Field for Irrigation,38.51,4.18,3.01,45.7,৳
+2026-06-03 12:00:00,Rangpur,Monsoon,12,35.25,61,0,760,4,1009.51,32,Maturity,4,5.67,1.67,0.99,15,Sunny,40.13,Water ON,Safe to Go Outside,Go to Field for Irrigation,48.2,4.18,3.17,55.55,৳
+2026-06-03 13:00:00,Rangpur,Monsoon,13,35.42,61,0,734,5,1009.51,32,Maturity,5,5.8,1.95,1.03,15,Sunny,40.3,Water ON,Safe to Go Outside,Go to Field for Irrigation,49.3,4.88,3.3,57.48,৳
+2026-06-03 14:00:00,Rangpur,Monsoon,14,35.25,76,9,263,6,1001.41,48,Maturity,0,4.37,0.55,1.05,6,Heavy Rain,41.33,Water OFF,Do Not Go Outside,Delay Field Visit,37.15,1.38,3.36,41.89,৳
+2026-06-03 15:00:00,Rangpur,Monsoon,15,34.75,78,10,179,7,1000.51,51,Maturity,0,3.2,0.55,1.06,4,Heavy Rain,40.99,Water OFF,Do Not Go Outside,Delay Field Visit,27.2,1.38,3.39,31.97,৳
+2026-06-03 16:00:00,Rangpur,Monsoon,16,33.95,78,10,127,7,1000.51,52,Maturity,0,3.05,0.55,1.05,3,Heavy Rain,40.19,Water OFF,Do Not Go Outside,Delay Field Visit,25.92,1.38,3.36,30.66,৳
+2026-06-03 17:00:00,Rangpur,Monsoon,17,32.92,79,10,66,6,1000.51,53,Maturity,0,2.84,0.55,1.03,2,Heavy Rain,39.24,Water OFF,Do Not Go Outside,Delay Field Visit,24.14,1.38,3.3,28.82,৳
+2026-06-03 18:00:00,Rangpur,Monsoon,18,31.71,78,9,0,6,1001.41,52,Maturity,0,2.6,0.55,0.99,1,Heavy Rain,37.95,Water OFF,Do Not Go Outside,Delay Field Visit,22.1,1.38,3.17,26.65,৳
+2026-06-03 19:00:00,Rangpur,Monsoon,19,30.42,76,7,0,5,1003.21,49,Maturity,1,2.58,0.83,0.94,1,Light Rain,36.5,Water OFF,Go Outside With Caution,Routine Check Optional,21.93,2.07,3.01,27.01,৳
+2026-06-03 20:00:00,Rangpur,Monsoon,20,29.12,74,5,0,4,1005.01,45,Maturity,2,2.54,1.11,0.88,1,Light Rain,35.04,Water OFF,Go Outside With Caution,Routine Check Optional,21.59,2.78,2.82,27.19,৳
+2026-06-03 21:00:00,Rangpur,Monsoon,21,27.92,66,0,0,3,1009.51,36,Maturity,4,2.94,1.67,0.82,0,Clear,33.2,Water ON,Safe to Go Outside,Go to Field for Irrigation,24.99,4.18,2.62,31.79,৳
+2026-06-03 22:00:00,Rangpur,Monsoon,22,26.88,67,0,0,3,1009.51,36,Maturity,4,3.08,1.67,0.88,0,Clear,32.24,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.18,4.18,2.82,33.18,৳
+2026-06-03 23:00:00,Rangpur,Monsoon,23,26.09,68,0,0,4,1009.51,36,Maturity,4,3.2,1.67,0.94,1,Clear,31.53,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.2,4.18,3.01,34.39,৳
+2026-06-04 00:00:00,Dhaka,Monsoon,0,24.97,69,0,0,4,1009.72,36,Maturity,4,3.44,1.67,0.99,1,Clear,30.49,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.24,4.18,3.17,36.59,৳
+2026-06-04 01:00:00,Dhaka,Monsoon,1,24.8,69,0,0,5,1009.72,36,Maturity,4,3.5,1.67,1.03,1,Clear,30.32,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.75,4.18,3.3,37.23,৳
+2026-06-04 02:00:00,Dhaka,Monsoon,2,24.97,69,0,0,5,1009.72,36,Maturity,4,3.52,1.67,1.05,1,Clear,30.49,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.92,4.18,3.36,37.46,৳
+2026-06-04 03:00:00,Dhaka,Monsoon,3,25.47,68,0,0,5,1009.72,36,Maturity,4,3.5,1.67,1.06,1,Clear,30.91,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.75,4.18,3.39,37.32,৳
+2026-06-04 04:00:00,Dhaka,Monsoon,4,26.26,68,0,0,5,1009.72,36,Maturity,4,3.44,1.67,1.05,1,Clear,31.7,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.24,4.18,3.36,36.78,৳
+2026-06-04 05:00:00,Dhaka,Monsoon,5,27.3,67,0,0,5,1009.72,36,Maturity,4,3.34,1.67,1.03,1,Clear,32.66,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.39,4.18,3.3,35.87,৳
+2026-06-04 06:00:00,Dhaka,Monsoon,6,28.51,66,0,0,4,1009.72,36,Maturity,4,3.22,1.67,0.99,1,Clear,33.79,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.37,4.18,3.17,34.72,৳
+2026-06-04 07:00:00,Dhaka,Monsoon,7,29.8,65,0,197,4,1009.72,36,Maturity,4,3.43,1.67,0.94,4,Clear,35.0,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.16,4.18,3.01,36.35,৳
+2026-06-04 08:00:00,Dhaka,Monsoon,8,31.09,64,0,380,3,1009.72,36,Maturity,4,3.6,1.67,0.88,8,Clear,36.21,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.6,4.18,2.82,37.6,৳
+2026-06-04 09:00:00,Dhaka,Monsoon,9,32.3,68,3,430,3,1007.02,41,Maturity,2,3.61,1.11,0.82,9,Light Rain,37.74,Water OFF,Go Outside With Caution,Routine Check Optional,30.68,2.78,2.62,36.08,৳
+2026-06-04 10:00:00,Dhaka,Monsoon,10,33.33,64,1,614,4,1008.82,36,Maturity,3,4.21,1.39,0.88,12,Light Rain,38.45,Water OFF,Go Outside With Caution,Routine Check Optional,35.78,3.47,2.82,42.07,৳
+2026-06-04 11:00:00,Dhaka,Monsoon,11,34.13,67,3,587,4,1007.02,38,Maturity,3,4.28,1.39,0.94,12,Light Rain,39.49,Water OFF,Go Outside With Caution,Routine Check Optional,36.38,3.47,3.01,42.86,৳
+2026-06-04 12:00:00,Dhaka,Monsoon,12,34.63,70,5,507,5,1005.22,42,Maturity,2,4.11,1.11,0.99,10,Light Rain,40.23,Water OFF,Go Outside With Caution,Routine Check Optional,34.94,2.78,3.17,40.89,৳
+2026-06-04 13:00:00,Dhaka,Monsoon,13,34.8,73,7,392,6,1003.42,46,Maturity,1,3.85,0.83,1.03,8,Light Rain,40.64,Water OFF,Go Outside With Caution,Routine Check Optional,32.72,2.07,3.3,38.09,৳
+2026-06-04 14:00:00,Dhaka,Monsoon,14,34.63,76,9,263,6,1001.62,49,Maturity,0,3.51,0.55,1.05,6,Heavy Rain,40.71,Water OFF,Do Not Go Outside,Delay Field Visit,29.83,1.38,3.36,34.57,৳
+2026-06-04 15:00:00,Dhaka,Monsoon,15,34.13,78,10,179,7,1000.72,51,Maturity,0,3.34,0.55,1.06,4,Heavy Rain,40.37,Water OFF,Do Not Go Outside,Delay Field Visit,28.39,1.38,3.39,33.16,৳
+2026-06-04 16:00:00,Dhaka,Monsoon,16,33.33,79,10,127,7,1000.72,52,Maturity,0,3.19,0.55,1.05,3,Heavy Rain,39.65,Water OFF,Do Not Go Outside,Delay Field Visit,27.12,1.38,3.36,31.86,৳
+2026-06-04 17:00:00,Dhaka,Monsoon,17,32.3,63,0,197,5,1009.72,36,Maturity,4,3.7,1.67,1.03,4,Clear,37.34,Water ON,Safe to Go Outside,Go to Field for Irrigation,31.45,4.18,3.3,38.93,৳
+2026-06-04 18:00:00,Dhaka,Monsoon,18,31.09,64,0,0,4,1009.72,36,Maturity,4,3.22,1.67,0.99,1,Clear,36.21,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.37,4.18,3.17,34.72,৳
+2026-06-04 19:00:00,Dhaka,Monsoon,19,29.8,65,0,0,4,1009.72,36,Maturity,4,3.08,1.67,0.94,1,Clear,35.0,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.18,4.18,3.01,33.37,৳
+2026-06-04 20:00:00,Dhaka,Monsoon,20,28.51,66,0,0,3,1009.72,36,Maturity,4,2.92,1.67,0.88,0,Clear,33.79,Water ON,Safe to Go Outside,Go to Field for Irrigation,24.82,4.18,2.82,31.82,৳
+2026-06-04 21:00:00,Dhaka,Monsoon,21,27.3,67,0,0,3,1009.72,36,Maturity,4,3.08,1.67,0.82,0,Clear,32.66,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.18,4.18,2.62,32.98,৳
+2026-06-04 22:00:00,Dhaka,Monsoon,22,26.26,68,0,0,3,1009.72,36,Maturity,4,3.22,1.67,0.88,0,Clear,31.7,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.37,4.18,2.82,34.37,৳
+2026-06-04 23:00:00,Dhaka,Monsoon,23,25.47,68,0,0,4,1009.72,36,Maturity,4,3.34,1.67,0.94,1,Clear,30.91,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.39,4.18,3.01,35.58,৳
+2026-06-05 00:00:00,Mymensingh,Monsoon,0,23.97,69,0,0,4,1010.0,36,Maturity,4,3.48,1.67,0.99,1,Clear,29.49,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.58,4.18,3.17,36.93,৳
+2026-06-05 01:00:00,Mymensingh,Monsoon,1,23.8,69,0,0,5,1010.0,36,Maturity,4,3.54,1.67,1.03,1,Clear,29.32,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.09,4.18,3.3,37.57,৳
+2026-06-05 02:00:00,Mymensingh,Monsoon,2,23.97,69,0,0,5,1010.0,36,Maturity,4,3.56,1.67,1.05,1,Clear,29.49,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.26,4.18,3.36,37.8,৳
+2026-06-05 03:00:00,Mymensingh,Monsoon,3,24.47,69,0,0,5,1010.0,36,Maturity,4,3.54,1.67,1.06,1,Clear,29.99,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.09,4.18,3.39,37.66,৳
+2026-06-05 04:00:00,Mymensingh,Monsoon,4,25.26,84,10,0,7,1001.0,54,Maturity,0,3.0,0.55,1.05,1,Heavy Rain,31.98,Water OFF,Do Not Go Outside,Delay Field Visit,25.5,1.38,3.36,30.24,৳
+2026-06-05 05:00:00,Mymensingh,Monsoon,5,26.3,84,10,0,6,1001.0,54,Maturity,0,2.9,0.55,1.03,1,Heavy Rain,33.02,Water OFF,Do Not Go Outside,Delay Field Visit,24.65,1.38,3.3,29.33,৳
+2026-06-05 06:00:00,Mymensingh,Monsoon,6,27.51,81,9,0,6,1001.9,52,Maturity,0,2.78,0.55,0.99,1,Heavy Rain,33.99,Water OFF,Do Not Go Outside,Delay Field Visit,23.63,1.38,3.17,28.18,৳
+2026-06-05 07:00:00,Mymensingh,Monsoon,7,28.8,77,7,105,5,1003.7,49,Maturity,1,2.94,0.83,0.94,3,Light Rain,34.96,Water OFF,Go Outside With Caution,Routine Check Optional,24.99,2.07,3.01,30.07,৳
+2026-06-05 08:00:00,Mymensingh,Monsoon,8,30.09,73,5,253,4,1005.5,45,Maturity,2,3.17,1.11,0.88,5,Light Rain,35.93,Water OFF,Go Outside With Caution,Routine Check Optional,26.94,2.78,2.82,32.54,৳
+2026-06-05 09:00:00,Mymensingh,Monsoon,9,31.3,69,3,430,3,1007.3,41,Maturity,2,3.64,1.11,0.82,9,Light Rain,36.82,Water OFF,Go Outside With Caution,Routine Check Optional,30.94,2.78,2.62,36.34,৳
+2026-06-05 10:00:00,Mymensingh,Monsoon,10,32.34,65,1,614,4,1009.1,38,Maturity,3,4.24,1.39,0.88,12,Light Rain,37.54,Water OFF,Go Outside With Caution,Routine Check Optional,36.04,3.47,2.82,42.33,৳
+2026-06-05 11:00:00,Mymensingh,Monsoon,11,33.13,68,3,587,4,1007.3,40,Maturity,3,4.32,1.39,0.94,12,Light Rain,38.57,Water OFF,Go Outside With Caution,Routine Check Optional,36.72,3.47,3.01,43.2,৳
+2026-06-05 12:00:00,Mymensingh,Monsoon,12,33.63,62,0,760,4,1010.0,34,Maturity,4,4.84,1.67,0.99,15,Sunny,38.59,Water ON,Safe to Go Outside,Go to Field for Irrigation,41.14,4.18,3.17,48.49,৳
+2026-06-05 13:00:00,Mymensingh,Monsoon,13,33.8,62,0,734,5,1010.0,34,Maturity,4,4.86,1.67,1.03,15,Sunny,38.76,Water ON,Safe to Go Outside,Go to Field for Irrigation,41.31,4.18,3.3,48.79,৳
+2026-06-05 14:00:00,Mymensingh,Monsoon,14,33.63,62,0,658,5,1010.0,34,Maturity,4,4.74,1.67,1.05,13,Sunny,38.59,Water ON,Safe to Go Outside,Go to Field for Irrigation,40.29,4.18,3.36,47.83,৳
+2026-06-05 15:00:00,Mymensingh,Monsoon,15,33.13,63,0,537,5,1010.0,35,Maturity,4,4.5,1.67,1.06,11,Sunny,38.17,Water ON,Safe to Go Outside,Go to Field for Irrigation,38.25,4.18,3.39,45.82,৳
+2026-06-05 16:00:00,Mymensingh,Monsoon,16,32.34,63,0,380,5,1010.0,36,Maturity,4,4.16,1.67,1.05,8,Clear,37.38,Water ON,Safe to Go Outside,Go to Field for Irrigation,35.36,4.18,3.36,42.9,৳
+2026-06-05 17:00:00,Mymensingh,Monsoon,17,31.3,64,0,197,5,1010.0,36,Maturity,4,3.73,1.67,1.03,4,Clear,36.42,Water ON,Safe to Go Outside,Go to Field for Irrigation,31.7,4.18,3.3,39.18,৳
+2026-06-05 18:00:00,Mymensingh,Monsoon,18,30.09,65,0,0,4,1010.0,36,Maturity,4,3.26,1.67,0.99,1,Clear,35.29,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.71,4.18,3.17,35.06,৳
+2026-06-05 19:00:00,Mymensingh,Monsoon,19,28.8,66,0,0,4,1010.0,36,Maturity,4,3.11,1.67,0.94,1,Clear,34.08,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.44,4.18,3.01,33.63,৳
+2026-06-05 20:00:00,Mymensingh,Monsoon,20,27.51,67,0,0,3,1010.0,36,Maturity,4,2.96,1.67,0.88,0,Clear,32.87,Water ON,Safe to Go Outside,Go to Field for Irrigation,25.16,4.18,2.82,32.16,৳
+2026-06-05 21:00:00,Mymensingh,Monsoon,21,26.3,68,0,0,3,1010.0,36,Maturity,4,3.11,1.67,0.82,0,Clear,31.74,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.44,4.18,2.62,33.24,৳
+2026-06-05 22:00:00,Mymensingh,Monsoon,22,25.26,68,0,0,3,1010.0,36,Maturity,4,3.26,1.67,0.88,0,Clear,30.7,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.71,4.18,2.82,34.71,৳
+2026-06-05 23:00:00,Mymensingh,Monsoon,23,24.47,69,0,0,4,1010.0,36,Maturity,4,3.38,1.67,0.94,1,Clear,29.99,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.73,4.18,3.01,35.92,৳
+2026-06-06 00:00:00,Rajshahi,Monsoon,0,22.97,78,5,0,5,1005.78,45,Maturity,2,3.14,1.11,0.99,1,Light Rain,29.21,Water OFF,Go Outside With Caution,Routine Check Optional,26.69,2.78,3.17,32.64,৳
+2026-06-06 01:00:00,Rajshahi,Monsoon,1,22.8,81,7,0,6,1003.98,49,Maturity,1,3.08,0.83,1.03,1,Light Rain,29.28,Water OFF,Go Outside With Caution,Routine Check Optional,26.18,2.07,3.3,31.55,৳
+2026-06-06 02:00:00,Rajshahi,Monsoon,2,22.97,84,9,0,6,1002.18,52,Maturity,0,2.98,0.55,1.05,1,Heavy Rain,29.69,Water OFF,Do Not Go Outside,Delay Field Visit,25.33,1.38,3.36,30.07,৳
+2026-06-06 03:00:00,Rajshahi,Monsoon,3,23.47,86,10,0,7,1001.28,54,Maturity,0,2.96,0.55,1.06,1,Heavy Rain,30.35,Water OFF,Do Not Go Outside,Delay Field Visit,25.16,1.38,3.39,29.93,৳
+2026-06-06 04:00:00,Rajshahi,Monsoon,4,24.27,85,10,0,7,1001.28,54,Maturity,0,2.9,0.55,1.05,1,Heavy Rain,31.07,Water OFF,Do Not Go Outside,Delay Field Visit,24.65,1.38,3.36,29.39,৳
+2026-06-06 05:00:00,Rajshahi,Monsoon,5,25.3,84,10,0,6,1001.28,54,Maturity,0,2.8,0.55,1.03,1,Heavy Rain,32.02,Water OFF,Do Not Go Outside,Delay Field Visit,23.8,1.38,3.3,28.48,৳
+2026-06-06 06:00:00,Rajshahi,Monsoon,6,26.51,82,9,0,6,1002.18,52,Maturity,0,2.68,0.55,0.99,1,Heavy Rain,33.07,Water OFF,Do Not Go Outside,Delay Field Visit,22.78,1.38,3.17,27.33,৳
+2026-06-06 07:00:00,Rajshahi,Monsoon,7,27.8,67,0,197,4,1010.28,36,Maturity,4,3.37,1.67,0.94,4,Clear,33.16,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.64,4.18,3.01,35.83,৳
+2026-06-06 08:00:00,Rajshahi,Monsoon,8,29.09,66,0,380,3,1010.28,36,Maturity,4,3.54,1.67,0.88,8,Clear,34.37,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.09,4.18,2.82,37.09,৳
+2026-06-06 09:00:00,Rajshahi,Monsoon,9,30.3,65,0,537,3,1010.28,36,Maturity,4,3.98,1.67,0.82,11,Sunny,35.5,Water ON,Safe to Go Outside,Go to Field for Irrigation,33.83,4.18,2.62,40.63,৳
+2026-06-06 10:00:00,Rajshahi,Monsoon,10,31.34,64,0,658,3,1010.28,36,Maturity,4,4.34,1.67,0.88,13,Sunny,36.46,Water ON,Safe to Go Outside,Go to Field for Irrigation,36.89,4.18,2.82,43.89,৳
+2026-06-06 11:00:00,Rajshahi,Monsoon,11,32.13,64,0,734,4,1010.28,36,Maturity,4,4.6,1.67,0.94,15,Sunny,37.25,Water ON,Safe to Go Outside,Go to Field for Irrigation,39.1,4.18,3.01,46.29,৳
+2026-06-06 12:00:00,Rajshahi,Monsoon,12,32.63,63,0,760,4,1010.28,35,Maturity,4,4.75,1.67,0.99,15,Sunny,37.67,Water ON,Safe to Go Outside,Go to Field for Irrigation,40.38,4.18,3.17,47.73,৳
+2026-06-06 13:00:00,Rajshahi,Monsoon,13,32.8,63,0,734,5,1010.28,35,Maturity,4,4.76,1.67,1.03,15,Sunny,37.84,Water ON,Safe to Go Outside,Go to Field for Irrigation,40.46,4.18,3.3,47.94,৳
+2026-06-06 14:00:00,Rajshahi,Monsoon,14,32.63,63,0,658,5,1010.28,35,Maturity,4,4.64,1.67,1.05,13,Sunny,37.67,Water ON,Safe to Go Outside,Go to Field for Irrigation,39.44,4.18,3.36,46.98,৳
+2026-06-06 15:00:00,Rajshahi,Monsoon,15,32.13,64,0,537,5,1010.28,36,Maturity,4,4.4,1.67,1.06,11,Sunny,37.25,Water ON,Safe to Go Outside,Go to Field for Irrigation,37.4,4.18,3.39,44.97,৳
+2026-06-06 16:00:00,Rajshahi,Monsoon,16,31.34,64,0,380,5,1010.28,36,Maturity,4,4.06,1.67,1.05,8,Clear,36.46,Water ON,Safe to Go Outside,Go to Field for Irrigation,34.51,4.18,3.36,42.05,৳
+2026-06-06 17:00:00,Rajshahi,Monsoon,17,30.3,65,0,197,5,1010.28,36,Maturity,4,3.64,1.67,1.03,4,Clear,35.5,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.94,4.18,3.3,38.42,৳
+2026-06-06 18:00:00,Rajshahi,Monsoon,18,29.09,66,0,0,4,1010.28,36,Maturity,4,3.16,1.67,0.99,1,Clear,34.37,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.86,4.18,3.17,34.21,৳
+2026-06-06 19:00:00,Rajshahi,Monsoon,19,27.8,67,0,0,4,1010.28,36,Maturity,4,3.01,1.67,0.94,1,Clear,33.16,Water ON,Safe to Go Outside,Go to Field for Irrigation,25.58,4.18,3.01,32.77,৳
+2026-06-06 20:00:00,Rajshahi,Monsoon,20,26.51,67,0,0,3,1010.28,36,Maturity,4,2.86,1.67,0.88,0,Clear,31.87,Water ON,Safe to Go Outside,Go to Field for Irrigation,24.31,4.18,2.82,31.31,৳
+2026-06-06 21:00:00,Rajshahi,Monsoon,21,25.3,73,3,0,3,1007.58,41,Maturity,2,2.77,1.11,0.82,0,Light Rain,31.14,Water OFF,Go Outside With Caution,Routine Check Optional,23.54,2.78,2.62,28.94,৳
+2026-06-06 22:00:00,Rajshahi,Monsoon,22,24.27,71,1,0,4,1009.38,38,Maturity,3,3.04,1.39,0.88,1,Light Rain,29.95,Water OFF,Go Outside With Caution,Routine Check Optional,25.84,3.47,2.82,32.13,৳
+2026-06-06 23:00:00,Rajshahi,Monsoon,23,23.47,74,3,0,4,1007.58,41,Maturity,2,3.04,1.11,0.94,1,Light Rain,29.39,Water OFF,Go Outside With Caution,Routine Check Optional,25.84,2.78,3.01,31.63,৳
+2026-06-07 00:00:00,Khulna,Monsoon,0,22.35,78,5,0,5,1005.99,45,Maturity,2,3.14,1.11,0.99,1,Light Rain,28.59,Water OFF,Go Outside With Caution,Routine Check Optional,26.69,2.78,3.17,32.64,৳
+2026-06-07 01:00:00,Khulna,Monsoon,1,22.18,82,7,0,6,1004.19,49,Maturity,1,3.08,0.83,1.03,1,Light Rain,28.74,Water OFF,Go Outside With Caution,Routine Check Optional,26.18,2.07,3.3,31.55,৳
+2026-06-07 02:00:00,Khulna,Monsoon,2,22.35,70,0,0,5,1010.49,36,Maturity,4,3.46,1.67,1.05,1,Clear,27.95,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.41,4.18,3.36,36.95,৳
+2026-06-07 03:00:00,Khulna,Monsoon,3,22.85,70,0,0,5,1010.49,36,Maturity,4,3.44,1.67,1.06,1,Clear,28.45,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.24,4.18,3.39,36.81,৳
+2026-06-07 04:00:00,Khulna,Monsoon,4,23.65,69,0,0,5,1010.49,36,Maturity,4,3.38,1.67,1.05,1,Clear,29.17,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.73,4.18,3.36,36.27,৳
+2026-06-07 05:00:00,Khulna,Monsoon,5,24.68,69,0,0,5,1010.49,36,Maturity,4,3.28,1.67,1.03,1,Clear,30.2,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.88,4.18,3.3,35.36,৳
+2026-06-07 06:00:00,Khulna,Monsoon,6,25.89,68,0,0,4,1010.49,36,Maturity,4,3.16,1.67,0.99,1,Clear,31.33,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.86,4.18,3.17,34.21,৳
+2026-06-07 07:00:00,Khulna,Monsoon,7,27.18,67,0,197,4,1010.49,36,Maturity,4,3.37,1.67,0.94,4,Clear,32.54,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.64,4.18,3.01,35.83,৳
+2026-06-07 08:00:00,Khulna,Monsoon,8,28.48,66,0,380,3,1010.49,36,Maturity,4,3.54,1.67,0.88,8,Clear,33.76,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.09,4.18,2.82,37.09,৳
+2026-06-07 09:00:00,Khulna,Monsoon,9,29.68,65,0,537,3,1010.49,36,Maturity,4,3.98,1.67,0.82,11,Sunny,34.88,Water ON,Safe to Go Outside,Go to Field for Irrigation,33.83,4.18,2.62,40.63,৳
+2026-06-07 10:00:00,Khulna,Monsoon,10,30.72,64,0,658,3,1010.49,36,Maturity,4,4.34,1.67,0.88,13,Sunny,35.84,Water ON,Safe to Go Outside,Go to Field for Irrigation,36.89,4.18,2.82,43.89,৳
+2026-06-07 11:00:00,Khulna,Monsoon,11,31.51,64,0,734,4,1010.49,36,Maturity,4,4.6,1.67,0.94,15,Sunny,36.63,Water ON,Safe to Go Outside,Go to Field for Irrigation,39.1,4.18,3.01,46.29,৳
+2026-06-07 12:00:00,Khulna,Monsoon,12,32.01,64,0,760,4,1010.49,36,Maturity,4,4.75,1.67,0.99,15,Sunny,37.13,Water ON,Safe to Go Outside,Go to Field for Irrigation,40.38,4.18,3.17,47.73,৳
+2026-06-07 13:00:00,Khulna,Monsoon,13,32.18,63,0,734,5,1010.49,36,Maturity,4,4.76,1.67,1.03,15,Sunny,37.22,Water ON,Safe to Go Outside,Go to Field for Irrigation,40.46,4.18,3.3,47.94,৳
+2026-06-07 14:00:00,Khulna,Monsoon,14,32.01,64,0,658,5,1010.49,36,Maturity,4,4.64,1.67,1.05,13,Sunny,37.13,Water ON,Safe to Go Outside,Go to Field for Irrigation,39.44,4.18,3.36,46.98,৳
+2026-06-07 15:00:00,Khulna,Monsoon,15,31.51,64,0,537,5,1010.49,36,Maturity,4,4.4,1.67,1.06,11,Sunny,36.63,Water ON,Safe to Go Outside,Go to Field for Irrigation,37.4,4.18,3.39,44.97,৳
+2026-06-07 16:00:00,Khulna,Monsoon,16,30.72,80,10,127,7,1001.49,54,Maturity,0,3.13,0.55,1.05,3,Heavy Rain,37.12,Water OFF,Do Not Go Outside,Delay Field Visit,26.6,1.38,3.36,31.34,৳
+2026-06-07 17:00:00,Khulna,Monsoon,17,29.68,81,10,66,6,1001.49,54,Maturity,0,2.92,0.55,1.03,2,Heavy Rain,36.16,Water OFF,Do Not Go Outside,Delay Field Visit,24.82,1.38,3.3,29.5,৳
+2026-06-07 18:00:00,Khulna,Monsoon,18,28.48,80,9,0,6,1002.39,52,Maturity,0,2.68,0.55,0.99,1,Heavy Rain,34.88,Water OFF,Do Not Go Outside,Delay Field Visit,22.78,1.38,3.17,27.33,৳
+2026-06-07 19:00:00,Khulna,Monsoon,19,27.18,78,7,0,5,1004.19,49,Maturity,1,2.65,0.83,0.94,1,Light Rain,33.42,Water OFF,Go Outside With Caution,Routine Check Optional,22.52,2.07,3.01,27.6,৳
+2026-06-07 20:00:00,Khulna,Monsoon,20,25.89,76,5,0,4,1005.99,45,Maturity,2,2.62,1.11,0.88,1,Light Rain,31.97,Water OFF,Go Outside With Caution,Routine Check Optional,22.27,2.78,2.82,27.87,৳
+2026-06-07 21:00:00,Khulna,Monsoon,21,24.68,74,3,0,3,1007.79,41,Maturity,2,2.77,1.11,0.82,0,Light Rain,30.6,Water OFF,Go Outside With Caution,Routine Check Optional,23.54,2.78,2.62,28.94,৳
+2026-06-07 22:00:00,Khulna,Monsoon,22,23.65,71,1,0,4,1009.59,38,Maturity,3,3.04,1.39,0.88,1,Light Rain,29.33,Water OFF,Go Outside With Caution,Routine Check Optional,25.84,3.47,2.82,32.13,৳
+2026-06-07 23:00:00,Khulna,Monsoon,23,22.85,75,3,0,4,1007.79,41,Maturity,2,3.04,1.11,0.94,1,Light Rain,28.85,Water OFF,Go Outside With Caution,Routine Check Optional,25.84,2.78,3.01,31.63,৳
+2026-06-08 00:00:00,Barisal,Monsoon,0,22.35,70,0,0,4,1010.6,36,Maturity,4,3.48,1.67,0.99,1,Clear,27.95,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.58,4.18,3.17,36.93,৳
+2026-06-08 01:00:00,Barisal,Monsoon,1,22.18,70,0,0,5,1010.6,36,Maturity,4,3.54,1.67,1.03,1,Clear,27.78,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.09,4.18,3.3,37.57,৳
+2026-06-08 02:00:00,Barisal,Monsoon,2,22.35,70,0,0,5,1010.6,36,Maturity,4,3.56,1.67,1.05,1,Clear,27.95,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.26,4.18,3.36,37.8,৳
+2026-06-08 03:00:00,Barisal,Monsoon,3,22.85,70,0,0,5,1010.6,36,Maturity,4,3.54,1.67,1.06,1,Clear,28.45,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.09,4.18,3.39,37.66,৳
+2026-06-08 04:00:00,Barisal,Monsoon,4,23.65,69,0,0,5,1010.6,36,Maturity,4,3.48,1.67,1.05,1,Clear,29.17,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.58,4.18,3.36,37.12,৳
+2026-06-08 05:00:00,Barisal,Monsoon,5,24.68,69,0,0,5,1010.6,36,Maturity,4,3.38,1.67,1.03,1,Clear,30.2,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.73,4.18,3.3,36.21,৳
+2026-06-08 06:00:00,Barisal,Monsoon,6,25.89,68,0,0,4,1010.6,36,Maturity,4,3.26,1.67,0.99,1,Clear,31.33,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.71,4.18,3.17,35.06,৳
+2026-06-08 07:00:00,Barisal,Monsoon,7,27.18,67,0,197,4,1010.6,36,Maturity,4,3.47,1.67,0.94,4,Clear,32.54,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.5,4.18,3.01,36.69,৳
+2026-06-08 08:00:00,Barisal,Monsoon,8,28.48,66,0,380,3,1010.6,36,Maturity,4,3.64,1.67,0.88,8,Clear,33.76,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.94,4.18,2.82,37.94,৳
+2026-06-08 09:00:00,Barisal,Monsoon,9,29.68,65,0,537,3,1010.6,36,Maturity,4,4.08,1.67,0.82,11,Sunny,34.88,Water ON,Safe to Go Outside,Go to Field for Irrigation,34.68,4.18,2.62,41.48,৳
+2026-06-08 10:00:00,Barisal,Monsoon,10,30.72,64,0,658,3,1010.6,36,Maturity,4,4.44,1.67,0.88,13,Sunny,35.84,Water ON,Safe to Go Outside,Go to Field for Irrigation,37.74,4.18,2.82,44.74,৳
+2026-06-08 11:00:00,Barisal,Monsoon,11,31.51,69,3,587,4,1007.9,41,Maturity,2,4.2,1.11,0.94,12,Light Rain,37.03,Water OFF,Go Outside With Caution,Routine Check Optional,35.7,2.78,3.01,41.49,৳
+2026-06-08 12:00:00,Barisal,Monsoon,12,32.01,72,5,507,5,1006.1,45,Maturity,2,4.15,1.11,0.99,10,Light Rain,37.77,Water OFF,Go Outside With Caution,Routine Check Optional,35.28,2.78,3.17,41.23,৳
+2026-06-08 13:00:00,Barisal,Monsoon,13,32.18,75,7,392,6,1004.3,49,Maturity,1,3.88,0.83,1.03,8,Light Rain,38.18,Water OFF,Go Outside With Caution,Routine Check Optional,32.98,2.07,3.3,38.35,৳
+2026-06-08 14:00:00,Barisal,Monsoon,14,32.01,78,9,263,6,1002.5,52,Maturity,0,3.55,0.55,1.05,6,Heavy Rain,38.25,Water OFF,Do Not Go Outside,Delay Field Visit,30.17,1.38,3.36,34.91,৳
+2026-06-08 15:00:00,Barisal,Monsoon,15,31.51,80,10,179,7,1001.6,54,Maturity,0,3.38,0.55,1.06,4,Heavy Rain,37.91,Water OFF,Do Not Go Outside,Delay Field Visit,28.73,1.38,3.39,33.5,৳
+2026-06-08 16:00:00,Barisal,Monsoon,16,30.72,80,10,127,7,1001.6,54,Maturity,0,3.22,0.55,1.05,3,Heavy Rain,37.12,Water OFF,Do Not Go Outside,Delay Field Visit,27.37,1.38,3.36,32.11,৳
+2026-06-08 17:00:00,Barisal,Monsoon,17,29.68,81,10,66,6,1001.6,54,Maturity,0,3.02,0.55,1.03,2,Heavy Rain,36.16,Water OFF,Do Not Go Outside,Delay Field Visit,25.67,1.38,3.3,30.35,৳
+2026-06-08 18:00:00,Barisal,Monsoon,18,28.48,80,9,0,6,1002.5,52,Maturity,0,2.78,0.55,0.99,1,Heavy Rain,34.88,Water OFF,Do Not Go Outside,Delay Field Visit,23.63,1.38,3.17,28.18,৳
+2026-06-08 19:00:00,Barisal,Monsoon,19,27.18,67,0,0,4,1010.6,36,Maturity,4,3.11,1.67,0.94,1,Clear,32.54,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.44,4.18,3.01,33.63,৳
+2026-06-08 20:00:00,Barisal,Monsoon,20,25.89,68,0,0,3,1010.6,36,Maturity,4,2.96,1.67,0.88,0,Clear,31.33,Water ON,Safe to Go Outside,Go to Field for Irrigation,25.16,4.18,2.82,32.16,৳
+2026-06-08 21:00:00,Barisal,Monsoon,21,24.68,69,0,0,3,1010.6,36,Maturity,4,3.11,1.67,0.82,0,Clear,30.2,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.44,4.18,2.62,33.24,৳
+2026-06-08 22:00:00,Barisal,Monsoon,22,23.65,69,0,0,3,1010.6,36,Maturity,4,3.26,1.67,0.88,0,Clear,29.17,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.71,4.18,2.82,34.71,৳
+2026-06-08 23:00:00,Barisal,Monsoon,23,22.85,70,0,0,4,1010.6,36,Maturity,4,3.38,1.67,0.94,1,Clear,28.45,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.73,4.18,3.01,35.92,৳
+2026-06-09 00:00:00,Chattogram,Monsoon,0,22.97,70,0,0,4,1010.56,36,Maturity,4,3.44,1.67,0.99,1,Clear,28.57,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.24,4.18,3.17,36.59,৳
+2026-06-09 01:00:00,Chattogram,Monsoon,1,22.8,70,0,0,5,1010.56,36,Maturity,4,3.5,1.67,1.03,1,Clear,28.4,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.75,4.18,3.3,37.23,৳
+2026-06-09 02:00:00,Chattogram,Monsoon,2,22.97,70,0,0,5,1010.56,36,Maturity,4,3.52,1.67,1.05,1,Clear,28.57,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.92,4.18,3.36,37.46,৳
+2026-06-09 03:00:00,Chattogram,Monsoon,3,23.47,70,0,0,5,1010.56,36,Maturity,4,3.5,1.67,1.06,1,Clear,29.07,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.75,4.18,3.39,37.32,৳
+2026-06-09 04:00:00,Chattogram,Monsoon,4,24.27,69,0,0,5,1010.56,36,Maturity,4,3.44,1.67,1.05,1,Clear,29.79,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.24,4.18,3.36,36.78,৳
+2026-06-09 05:00:00,Chattogram,Monsoon,5,25.3,68,0,0,5,1010.56,36,Maturity,4,3.34,1.67,1.03,1,Clear,30.74,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.39,4.18,3.3,35.87,৳
+2026-06-09 06:00:00,Chattogram,Monsoon,6,26.51,82,9,0,6,1002.46,52,Maturity,0,2.74,0.55,0.99,1,Heavy Rain,33.07,Water OFF,Do Not Go Outside,Delay Field Visit,23.29,1.38,3.17,27.84,৳
+2026-06-09 07:00:00,Chattogram,Monsoon,7,27.8,78,7,105,5,1004.26,49,Maturity,1,2.91,0.83,0.94,3,Light Rain,34.04,Water OFF,Go Outside With Caution,Routine Check Optional,24.74,2.07,3.01,29.82,৳
+2026-06-09 08:00:00,Chattogram,Monsoon,8,29.09,74,5,253,4,1006.06,45,Maturity,2,3.14,1.11,0.88,5,Light Rain,35.01,Water OFF,Go Outside With Caution,Routine Check Optional,26.69,2.78,2.82,32.29,৳
+2026-06-09 09:00:00,Chattogram,Monsoon,9,30.3,70,3,430,3,1007.86,41,Maturity,2,3.61,1.11,0.82,9,Light Rain,35.9,Water OFF,Go Outside With Caution,Routine Check Optional,30.68,2.78,2.62,36.08,৳
+2026-06-09 10:00:00,Chattogram,Monsoon,10,31.34,66,1,614,4,1009.66,38,Maturity,3,4.21,1.39,0.88,12,Light Rain,36.62,Water OFF,Go Outside With Caution,Routine Check Optional,35.78,3.47,2.82,42.07,৳
+2026-06-09 11:00:00,Chattogram,Monsoon,11,32.13,68,3,587,4,1007.86,41,Maturity,2,4.16,1.11,0.94,12,Light Rain,37.57,Water OFF,Go Outside With Caution,Routine Check Optional,35.36,2.78,3.01,41.15,৳
+2026-06-09 12:00:00,Chattogram,Monsoon,12,32.63,71,5,507,5,1006.06,44,Maturity,2,4.11,1.11,0.99,10,Light Rain,38.31,Water OFF,Go Outside With Caution,Routine Check Optional,34.94,2.78,3.17,40.89,৳
+2026-06-09 13:00:00,Chattogram,Monsoon,13,32.8,74,7,392,6,1004.26,48,Maturity,1,3.85,0.83,1.03,8,Light Rain,38.72,Water OFF,Go Outside With Caution,Routine Check Optional,32.72,2.07,3.3,38.09,৳
+2026-06-09 14:00:00,Chattogram,Monsoon,14,32.63,63,0,658,5,1010.56,35,Maturity,4,4.71,1.67,1.05,13,Sunny,37.67,Water ON,Safe to Go Outside,Go to Field for Irrigation,40.03,4.18,3.36,47.57,৳
+2026-06-09 15:00:00,Chattogram,Monsoon,15,32.13,64,0,537,5,1010.56,36,Maturity,4,4.47,1.67,1.06,11,Sunny,37.25,Water ON,Safe to Go Outside,Go to Field for Irrigation,37.99,4.18,3.39,45.56,৳
+2026-06-09 16:00:00,Chattogram,Monsoon,16,31.34,64,0,380,5,1010.56,36,Maturity,4,4.12,1.67,1.05,8,Clear,36.46,Water ON,Safe to Go Outside,Go to Field for Irrigation,35.02,4.18,3.36,42.56,৳
+2026-06-09 17:00:00,Chattogram,Monsoon,17,30.3,65,0,197,5,1010.56,36,Maturity,4,3.7,1.67,1.03,4,Clear,35.5,Water ON,Safe to Go Outside,Go to Field for Irrigation,31.45,4.18,3.3,38.93,৳
+2026-06-09 18:00:00,Chattogram,Monsoon,18,29.09,66,0,0,4,1010.56,36,Maturity,4,3.22,1.67,0.99,1,Clear,34.37,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.37,4.18,3.17,34.72,৳
+2026-06-09 19:00:00,Chattogram,Monsoon,19,27.8,67,0,0,4,1010.56,36,Maturity,4,3.08,1.67,0.94,1,Clear,33.16,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.18,4.18,3.01,33.37,৳
+2026-06-09 20:00:00,Chattogram,Monsoon,20,26.51,67,0,0,3,1010.56,36,Maturity,4,2.92,1.67,0.88,0,Clear,31.87,Water ON,Safe to Go Outside,Go to Field for Irrigation,24.82,4.18,2.82,31.82,৳
+2026-06-09 21:00:00,Chattogram,Monsoon,21,25.3,68,0,0,3,1010.56,36,Maturity,4,3.08,1.67,0.82,0,Clear,30.74,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.18,4.18,2.62,32.98,৳
+2026-06-09 22:00:00,Chattogram,Monsoon,22,24.27,69,0,0,3,1010.56,36,Maturity,4,3.22,1.67,0.88,0,Clear,29.79,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.37,4.18,2.82,34.37,৳
+2026-06-09 23:00:00,Chattogram,Monsoon,23,23.47,70,0,0,4,1010.56,36,Maturity,4,3.34,1.67,0.94,1,Clear,29.07,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.39,4.18,3.01,35.58,৳
+2026-06-10 00:00:00,Sylhet,Monsoon,0,23.97,69,0,0,4,1010.4,36,Maturity,4,3.3,1.67,0.99,1,Clear,29.49,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.05,4.18,3.17,35.4,৳
+2026-06-10 01:00:00,Sylhet,Monsoon,1,23.8,69,0,0,5,1010.4,36,Maturity,4,3.36,1.67,1.03,1,Clear,29.32,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.56,4.18,3.3,36.04,৳
+2026-06-10 02:00:00,Sylhet,Monsoon,2,23.97,84,9,0,6,1002.3,52,Maturity,0,2.9,0.55,1.05,1,Heavy Rain,30.69,Water OFF,Do Not Go Outside,Delay Field Visit,24.65,1.38,3.36,29.39,৳
+2026-06-10 03:00:00,Sylhet,Monsoon,3,24.47,85,10,0,7,1001.4,54,Maturity,0,2.88,0.55,1.06,1,Heavy Rain,31.27,Water OFF,Do Not Go Outside,Delay Field Visit,24.48,1.38,3.39,29.25,৳
+2026-06-10 04:00:00,Sylhet,Monsoon,4,25.26,84,10,0,7,1001.4,54,Maturity,0,2.82,0.55,1.05,1,Heavy Rain,31.98,Water OFF,Do Not Go Outside,Delay Field Visit,23.97,1.38,3.36,28.71,৳
+2026-06-10 05:00:00,Sylhet,Monsoon,5,26.3,84,10,0,6,1001.4,54,Maturity,0,2.72,0.55,1.03,1,Heavy Rain,33.02,Water OFF,Do Not Go Outside,Delay Field Visit,23.12,1.38,3.3,27.8,৳
+2026-06-10 06:00:00,Sylhet,Monsoon,6,27.51,81,9,0,6,1002.3,52,Maturity,0,2.6,0.55,0.99,1,Heavy Rain,33.99,Water OFF,Do Not Go Outside,Delay Field Visit,22.1,1.38,3.17,26.65,৳
+2026-06-10 07:00:00,Sylhet,Monsoon,7,28.8,77,7,105,5,1004.1,49,Maturity,1,2.76,0.83,0.94,3,Light Rain,34.96,Water OFF,Go Outside With Caution,Routine Check Optional,23.46,2.07,3.01,28.54,৳
+2026-06-10 08:00:00,Sylhet,Monsoon,8,30.09,73,5,253,4,1005.9,45,Maturity,2,3.0,1.11,0.88,5,Light Rain,35.93,Water OFF,Go Outside With Caution,Routine Check Optional,25.5,2.78,2.82,31.1,৳
+2026-06-10 09:00:00,Sylhet,Monsoon,9,31.3,64,0,537,3,1010.4,36,Maturity,4,3.9,1.67,0.82,11,Sunny,36.42,Water ON,Safe to Go Outside,Go to Field for Irrigation,33.15,4.18,2.62,39.95,৳
+2026-06-10 10:00:00,Sylhet,Monsoon,10,32.34,63,0,658,3,1010.4,36,Maturity,4,4.26,1.67,0.88,13,Sunny,37.38,Water ON,Safe to Go Outside,Go to Field for Irrigation,36.21,4.18,2.82,43.21,৳
+2026-06-10 11:00:00,Sylhet,Monsoon,11,33.13,63,0,734,4,1010.4,35,Maturity,4,4.53,1.67,0.94,15,Sunny,38.17,Water ON,Safe to Go Outside,Go to Field for Irrigation,38.51,4.18,3.01,45.7,৳
+2026-06-10 12:00:00,Sylhet,Monsoon,12,33.63,62,0,760,4,1010.4,34,Maturity,4,4.67,1.67,0.99,15,Sunny,38.59,Water ON,Safe to Go Outside,Go to Field for Irrigation,39.7,4.18,3.17,47.05,৳
+2026-06-10 13:00:00,Sylhet,Monsoon,13,33.8,62,0,734,5,1010.4,34,Maturity,4,4.68,1.67,1.03,15,Sunny,38.76,Water ON,Safe to Go Outside,Go to Field for Irrigation,39.78,4.18,3.3,47.26,৳
+2026-06-10 14:00:00,Sylhet,Monsoon,14,33.63,62,0,658,5,1010.4,34,Maturity,4,4.56,1.67,1.05,13,Sunny,38.59,Water ON,Safe to Go Outside,Go to Field for Irrigation,38.76,4.18,3.36,46.3,৳
+2026-06-10 15:00:00,Sylhet,Monsoon,15,33.13,63,0,537,5,1010.4,35,Maturity,4,4.33,1.67,1.06,11,Sunny,38.17,Water ON,Safe to Go Outside,Go to Field for Irrigation,36.8,4.18,3.39,44.37,৳
+2026-06-10 16:00:00,Sylhet,Monsoon,16,32.34,63,0,380,5,1010.4,36,Maturity,4,3.98,1.67,1.05,8,Clear,37.38,Water ON,Safe to Go Outside,Go to Field for Irrigation,33.83,4.18,3.36,41.37,৳
+2026-06-10 17:00:00,Sylhet,Monsoon,17,31.3,64,0,197,5,1010.4,36,Maturity,4,3.56,1.67,1.03,4,Clear,36.42,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.26,4.18,3.3,37.74,৳
+2026-06-10 18:00:00,Sylhet,Monsoon,18,30.09,65,0,0,4,1010.4,36,Maturity,4,3.08,1.67,0.99,1,Clear,35.29,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.18,4.18,3.17,33.53,৳
+2026-06-10 19:00:00,Sylhet,Monsoon,19,28.8,66,0,0,4,1010.4,36,Maturity,4,2.94,1.67,0.94,1,Clear,34.08,Water ON,Safe to Go Outside,Go to Field for Irrigation,24.99,4.18,3.01,32.18,৳
+2026-06-10 20:00:00,Sylhet,Monsoon,20,27.51,67,0,0,3,1010.4,36,Maturity,4,2.78,1.67,0.88,0,Clear,32.87,Water ON,Safe to Go Outside,Go to Field for Irrigation,23.63,4.18,2.82,30.63,৳
+2026-06-10 21:00:00,Sylhet,Monsoon,21,26.3,68,0,0,3,1010.4,36,Maturity,4,2.94,1.67,0.82,0,Clear,31.74,Water ON,Safe to Go Outside,Go to Field for Irrigation,24.99,4.18,2.62,31.79,৳
+2026-06-10 22:00:00,Sylhet,Monsoon,22,25.26,68,0,0,3,1010.4,36,Maturity,4,3.08,1.67,0.88,0,Clear,30.7,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.18,4.18,2.82,33.18,৳
+2026-06-10 23:00:00,Sylhet,Monsoon,23,24.47,69,0,0,4,1010.4,36,Maturity,4,3.2,1.67,0.94,1,Clear,29.99,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.2,4.18,3.01,34.39,৳
+2026-06-11 00:00:00,Rangpur,Monsoon,0,24.97,77,5,0,5,1005.64,45,Maturity,2,3.2,1.11,0.99,1,Light Rain,31.13,Water OFF,Go Outside With Caution,Routine Check Optional,27.2,2.78,3.17,33.15,৳
+2026-06-11 01:00:00,Rangpur,Monsoon,1,24.8,80,7,0,6,1003.84,49,Maturity,1,3.14,0.83,1.03,1,Light Rain,31.2,Water OFF,Go Outside With Caution,Routine Check Optional,26.69,2.07,3.3,32.06,৳
+2026-06-11 02:00:00,Rangpur,Monsoon,2,24.97,83,9,0,6,1002.04,52,Maturity,0,3.04,0.55,1.05,1,Heavy Rain,31.61,Water OFF,Do Not Go Outside,Delay Field Visit,25.84,1.38,3.36,30.58,৳
+2026-06-11 03:00:00,Rangpur,Monsoon,3,25.47,84,10,0,7,1001.14,54,Maturity,0,3.02,0.55,1.06,1,Heavy Rain,32.19,Water OFF,Do Not Go Outside,Delay Field Visit,25.67,1.38,3.39,30.44,৳
+2026-06-11 04:00:00,Rangpur,Monsoon,4,26.26,68,0,0,5,1010.14,36,Maturity,4,3.44,1.67,1.05,1,Clear,31.7,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.24,4.18,3.36,36.78,৳
+2026-06-11 05:00:00,Rangpur,Monsoon,5,27.3,67,0,0,5,1010.14,36,Maturity,4,3.34,1.67,1.03,1,Clear,32.66,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.39,4.18,3.3,35.87,৳
+2026-06-11 06:00:00,Rangpur,Monsoon,6,28.51,66,0,0,4,1010.14,36,Maturity,4,3.22,1.67,0.99,1,Clear,33.79,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.37,4.18,3.17,34.72,৳
+2026-06-11 07:00:00,Rangpur,Monsoon,7,29.8,65,0,197,4,1010.14,36,Maturity,4,3.43,1.67,0.94,4,Clear,35.0,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.16,4.18,3.01,36.35,৳
+2026-06-11 08:00:00,Rangpur,Monsoon,8,31.09,64,0,380,3,1010.14,36,Maturity,4,3.6,1.67,0.88,8,Clear,36.21,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.6,4.18,2.82,37.6,৳
+2026-06-11 09:00:00,Rangpur,Monsoon,9,32.3,63,0,537,3,1010.14,36,Maturity,4,4.04,1.67,0.82,11,Sunny,37.34,Water ON,Safe to Go Outside,Go to Field for Irrigation,34.34,4.18,2.62,41.14,৳
+2026-06-11 10:00:00,Rangpur,Monsoon,10,33.33,63,0,658,3,1010.14,34,Maturity,4,4.41,1.67,0.88,13,Sunny,38.37,Water ON,Safe to Go Outside,Go to Field for Irrigation,37.48,4.18,2.82,44.48,৳
+2026-06-11 11:00:00,Rangpur,Monsoon,11,34.13,62,0,734,4,1010.14,33,Maturity,4,4.67,1.67,0.94,15,Sunny,39.09,Water ON,Safe to Go Outside,Go to Field for Irrigation,39.7,4.18,3.01,46.89,৳
+2026-06-11 12:00:00,Rangpur,Monsoon,12,34.63,62,0,760,4,1010.14,33,Maturity,4,4.81,1.67,0.99,15,Sunny,39.59,Water ON,Safe to Go Outside,Go to Field for Irrigation,40.88,4.18,3.17,48.23,৳
+2026-06-11 13:00:00,Rangpur,Monsoon,13,34.8,62,0,734,5,1010.14,33,Maturity,4,4.82,1.67,1.03,15,Sunny,39.76,Water ON,Safe to Go Outside,Go to Field for Irrigation,40.97,4.18,3.3,48.45,৳
+2026-06-11 14:00:00,Rangpur,Monsoon,14,34.63,62,0,658,5,1010.14,33,Maturity,4,4.71,1.67,1.05,13,Sunny,39.59,Water ON,Safe to Go Outside,Go to Field for Irrigation,40.03,4.18,3.36,47.57,৳
+2026-06-11 15:00:00,Rangpur,Monsoon,15,34.13,62,0,537,5,1010.14,33,Maturity,4,4.47,1.67,1.06,11,Sunny,39.09,Water ON,Safe to Go Outside,Go to Field for Irrigation,37.99,4.18,3.39,45.56,৳
+2026-06-11 16:00:00,Rangpur,Monsoon,16,33.33,63,0,380,5,1010.14,34,Maturity,4,4.12,1.67,1.05,8,Clear,38.37,Water ON,Safe to Go Outside,Go to Field for Irrigation,35.02,4.18,3.36,42.56,৳
+2026-06-11 17:00:00,Rangpur,Monsoon,17,32.3,63,0,197,5,1010.14,36,Maturity,4,3.7,1.67,1.03,4,Clear,37.34,Water ON,Safe to Go Outside,Go to Field for Irrigation,31.45,4.18,3.3,38.93,৳
+2026-06-11 18:00:00,Rangpur,Monsoon,18,31.09,64,0,0,4,1010.14,36,Maturity,4,3.22,1.67,0.99,1,Clear,36.21,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.37,4.18,3.17,34.72,৳
+2026-06-11 19:00:00,Rangpur,Monsoon,19,29.8,76,7,0,5,1003.84,49,Maturity,1,2.72,0.83,0.94,1,Light Rain,35.88,Water OFF,Go Outside With Caution,Routine Check Optional,23.12,2.07,3.01,28.2,৳
+2026-06-11 20:00:00,Rangpur,Monsoon,20,28.51,74,5,0,4,1005.64,45,Maturity,2,2.68,1.11,0.88,1,Light Rain,34.43,Water OFF,Go Outside With Caution,Routine Check Optional,22.78,2.78,2.82,28.38,৳
+2026-06-11 21:00:00,Rangpur,Monsoon,21,27.3,72,3,0,3,1007.44,41,Maturity,2,2.84,1.11,0.82,0,Light Rain,33.06,Water OFF,Go Outside With Caution,Routine Check Optional,24.14,2.78,2.62,29.54,৳
+2026-06-11 22:00:00,Rangpur,Monsoon,22,26.26,69,1,0,4,1009.24,38,Maturity,3,3.1,1.39,0.88,1,Light Rain,31.78,Water OFF,Go Outside With Caution,Routine Check Optional,26.35,3.47,2.82,32.64,৳
+2026-06-11 23:00:00,Rangpur,Monsoon,23,25.47,73,3,0,4,1007.44,41,Maturity,2,3.1,1.11,0.94,1,Light Rain,31.31,Water OFF,Go Outside With Caution,Routine Check Optional,26.35,2.78,3.01,32.14,৳
+2026-06-12 00:00:00,Dhaka,Monsoon,0,25.59,68,0,0,4,1009.86,36,Maturity,4,3.48,1.67,0.99,1,Clear,31.03,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.58,4.18,3.17,36.93,৳
+2026-06-12 01:00:00,Dhaka,Monsoon,1,25.42,68,0,0,5,1009.86,36,Maturity,4,3.54,1.67,1.03,1,Clear,30.86,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.09,4.18,3.3,37.57,৳
+2026-06-12 02:00:00,Dhaka,Monsoon,2,25.59,68,0,0,5,1009.86,36,Maturity,4,3.56,1.67,1.05,1,Clear,31.03,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.26,4.18,3.36,37.8,৳
+2026-06-12 03:00:00,Dhaka,Monsoon,3,26.09,68,0,0,5,1009.86,36,Maturity,4,3.54,1.67,1.06,1,Clear,31.53,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.09,4.18,3.39,37.66,৳
+2026-06-12 04:00:00,Dhaka,Monsoon,4,26.88,67,0,0,5,1009.86,36,Maturity,4,3.48,1.67,1.05,1,Clear,32.24,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.58,4.18,3.36,37.12,৳
+2026-06-12 05:00:00,Dhaka,Monsoon,5,27.92,66,0,0,5,1009.86,36,Maturity,4,3.38,1.67,1.03,1,Clear,33.2,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.73,4.18,3.3,36.21,৳
+2026-06-12 06:00:00,Dhaka,Monsoon,6,29.12,66,0,0,4,1009.86,36,Maturity,4,3.26,1.67,0.99,1,Clear,34.4,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.71,4.18,3.17,35.06,৳
+2026-06-12 07:00:00,Dhaka,Monsoon,7,30.42,65,0,197,4,1009.86,36,Maturity,4,3.47,1.67,0.94,4,Clear,35.62,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.5,4.18,3.01,36.69,৳
+2026-06-12 08:00:00,Dhaka,Monsoon,8,31.71,64,0,380,3,1009.86,36,Maturity,4,3.64,1.67,0.88,8,Clear,36.83,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.94,4.18,2.82,37.94,৳
+2026-06-12 09:00:00,Dhaka,Monsoon,9,32.92,63,0,537,3,1009.86,35,Maturity,4,4.08,1.67,0.82,11,Sunny,37.96,Water ON,Safe to Go Outside,Go to Field for Irrigation,34.68,4.18,2.62,41.48,৳
+2026-06-12 10:00:00,Dhaka,Monsoon,10,33.95,62,0,658,3,1009.86,34,Maturity,4,4.44,1.67,0.88,13,Sunny,38.91,Water ON,Safe to Go Outside,Go to Field for Irrigation,37.74,4.18,2.82,44.74,৳
+2026-06-12 11:00:00,Dhaka,Monsoon,11,34.75,62,0,734,4,1009.86,33,Maturity,4,4.7,1.67,0.94,15,Sunny,39.71,Water ON,Safe to Go Outside,Go to Field for Irrigation,39.95,4.18,3.01,47.14,৳
+2026-06-12 12:00:00,Dhaka,Monsoon,12,35.25,61,0,760,4,1009.86,32,Maturity,4,5.84,1.67,0.99,15,Sunny,40.13,Water ON,Safe to Go Outside,Go to Field for Irrigation,49.64,4.18,3.17,56.99,৳
+2026-06-12 13:00:00,Dhaka,Monsoon,13,35.42,61,0,734,5,1009.86,32,Maturity,5,5.98,1.95,1.03,15,Sunny,40.3,Water ON,Safe to Go Outside,Go to Field for Irrigation,50.83,4.88,3.3,59.01,৳
+2026-06-12 14:00:00,Dhaka,Monsoon,14,35.25,76,9,263,6,1001.76,48,Maturity,0,4.55,0.55,1.05,6,Heavy Rain,41.33,Water OFF,Do Not Go Outside,Delay Field Visit,38.67,1.38,3.36,43.41,৳
+2026-06-12 15:00:00,Dhaka,Monsoon,15,34.75,78,10,179,7,1000.86,51,Maturity,0,3.38,0.55,1.06,4,Heavy Rain,40.99,Water OFF,Do Not Go Outside,Delay Field Visit,28.73,1.38,3.39,33.5,৳
+2026-06-12 16:00:00,Dhaka,Monsoon,16,33.95,78,10,127,7,1000.86,52,Maturity,0,3.22,0.55,1.05,3,Heavy Rain,40.19,Water OFF,Do Not Go Outside,Delay Field Visit,27.37,1.38,3.36,32.11,৳
+2026-06-12 17:00:00,Dhaka,Monsoon,17,32.92,79,10,66,6,1000.86,53,Maturity,0,3.02,0.55,1.03,2,Heavy Rain,39.24,Water OFF,Do Not Go Outside,Delay Field Visit,25.67,1.38,3.3,30.35,৳
+2026-06-12 18:00:00,Dhaka,Monsoon,18,31.71,78,9,0,6,1001.76,52,Maturity,0,2.78,0.55,0.99,1,Heavy Rain,37.95,Water OFF,Do Not Go Outside,Delay Field Visit,23.63,1.38,3.17,28.18,৳
+2026-06-12 19:00:00,Dhaka,Monsoon,19,30.42,76,7,0,5,1003.56,49,Maturity,1,2.75,0.83,0.94,1,Light Rain,36.5,Water OFF,Go Outside With Caution,Routine Check Optional,23.38,2.07,3.01,28.46,৳
+2026-06-12 20:00:00,Dhaka,Monsoon,20,29.12,74,5,0,4,1005.36,45,Maturity,2,2.72,1.11,0.88,1,Light Rain,35.04,Water OFF,Go Outside With Caution,Routine Check Optional,23.12,2.78,2.82,28.72,৳
+2026-06-12 21:00:00,Dhaka,Monsoon,21,27.92,66,0,0,3,1009.86,36,Maturity,4,3.11,1.67,0.82,0,Clear,33.2,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.44,4.18,2.62,33.24,৳
+2026-06-12 22:00:00,Dhaka,Monsoon,22,26.88,67,0,0,3,1009.86,36,Maturity,4,3.26,1.67,0.88,0,Clear,32.24,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.71,4.18,2.82,34.71,৳
+2026-06-12 23:00:00,Dhaka,Monsoon,23,26.09,68,0,0,4,1009.86,36,Maturity,4,3.38,1.67,0.94,1,Clear,31.53,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.73,4.18,3.01,35.92,৳
+2026-06-13 00:00:00,Mymensingh,Monsoon,0,25.59,68,0,0,4,1009.6,36,Maturity,4,3.38,1.67,0.99,1,Clear,31.03,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.73,4.18,3.17,36.08,৳
+2026-06-13 01:00:00,Mymensingh,Monsoon,1,25.42,68,0,0,5,1009.6,36,Maturity,4,3.44,1.67,1.03,1,Clear,30.86,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.24,4.18,3.3,36.72,৳
+2026-06-13 02:00:00,Mymensingh,Monsoon,2,25.59,68,0,0,5,1009.6,36,Maturity,4,3.46,1.67,1.05,1,Clear,31.03,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.41,4.18,3.36,36.95,৳
+2026-06-13 03:00:00,Mymensingh,Monsoon,3,26.09,68,0,0,5,1009.6,36,Maturity,4,3.44,1.67,1.06,1,Clear,31.53,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.24,4.18,3.39,36.81,৳
+2026-06-13 04:00:00,Mymensingh,Monsoon,4,26.88,67,0,0,5,1009.6,36,Maturity,4,3.38,1.67,1.05,1,Clear,32.24,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.73,4.18,3.36,36.27,৳
+2026-06-13 05:00:00,Mymensingh,Monsoon,5,27.92,66,0,0,5,1009.6,36,Maturity,4,3.28,1.67,1.03,1,Clear,33.2,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.88,4.18,3.3,35.36,৳
+2026-06-13 06:00:00,Mymensingh,Monsoon,6,29.12,66,0,0,4,1009.6,36,Maturity,4,3.16,1.67,0.99,1,Clear,34.4,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.86,4.18,3.17,34.21,৳
+2026-06-13 07:00:00,Mymensingh,Monsoon,7,30.42,65,0,197,4,1009.6,36,Maturity,4,3.37,1.67,0.94,4,Clear,35.62,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.64,4.18,3.01,35.83,৳
+2026-06-13 08:00:00,Mymensingh,Monsoon,8,31.71,64,0,380,3,1009.6,36,Maturity,4,3.54,1.67,0.88,8,Clear,36.83,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.09,4.18,2.82,37.09,৳
+2026-06-13 09:00:00,Mymensingh,Monsoon,9,32.92,68,3,430,3,1006.9,40,Maturity,3,3.67,1.39,0.82,9,Light Rain,38.36,Water OFF,Go Outside With Caution,Routine Check Optional,31.2,3.47,2.62,37.29,৳
+2026-06-13 10:00:00,Mymensingh,Monsoon,10,33.95,64,1,614,4,1008.7,36,Maturity,3,4.14,1.39,0.88,12,Light Rain,39.07,Water OFF,Go Outside With Caution,Routine Check Optional,35.19,3.47,2.82,41.48,৳
+2026-06-13 11:00:00,Mymensingh,Monsoon,11,34.75,66,3,587,4,1006.9,38,Maturity,3,4.22,1.39,0.94,12,Light Rain,40.03,Water OFF,Go Outside With Caution,Routine Check Optional,35.87,3.47,3.01,42.35,৳
+2026-06-13 12:00:00,Mymensingh,Monsoon,12,35.25,69,5,507,5,1005.1,41,Maturity,2,5.05,1.11,0.99,10,Light Rain,40.77,Water OFF,Go Outside With Caution,Routine Check Optional,42.92,2.78,3.17,48.87,৳
+2026-06-13 13:00:00,Mymensingh,Monsoon,13,35.42,72,7,392,6,1003.3,45,Maturity,2,4.9,1.11,1.03,8,Light Rain,41.18,Water OFF,Go Outside With Caution,Routine Check Optional,41.65,2.78,3.3,47.73,৳
+2026-06-13 14:00:00,Mymensingh,Monsoon,14,35.25,76,9,263,6,1001.5,48,Maturity,0,4.45,0.55,1.05,6,Heavy Rain,41.33,Water OFF,Do Not Go Outside,Delay Field Visit,37.83,1.38,3.36,42.57,৳
+2026-06-13 15:00:00,Mymensingh,Monsoon,15,34.75,78,10,179,7,1000.6,51,Maturity,0,3.28,0.55,1.06,4,Heavy Rain,40.99,Water OFF,Do Not Go Outside,Delay Field Visit,27.88,1.38,3.39,32.65,৳
+2026-06-13 16:00:00,Mymensingh,Monsoon,16,33.95,78,10,127,7,1000.6,52,Maturity,0,3.13,0.55,1.05,3,Heavy Rain,40.19,Water OFF,Do Not Go Outside,Delay Field Visit,26.6,1.38,3.36,31.34,৳
+2026-06-13 17:00:00,Mymensingh,Monsoon,17,32.92,63,0,197,5,1009.6,35,Maturity,4,3.64,1.67,1.03,4,Clear,37.96,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.94,4.18,3.3,38.42,৳
+2026-06-13 18:00:00,Mymensingh,Monsoon,18,31.71,64,0,0,4,1009.6,36,Maturity,4,3.16,1.67,0.99,1,Clear,36.83,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.86,4.18,3.17,34.21,৳
+2026-06-13 19:00:00,Mymensingh,Monsoon,19,30.42,65,0,0,4,1009.6,36,Maturity,4,3.01,1.67,0.94,1,Clear,35.62,Water ON,Safe to Go Outside,Go to Field for Irrigation,25.58,4.18,3.01,32.77,৳
+2026-06-13 20:00:00,Mymensingh,Monsoon,20,29.12,66,0,0,3,1009.6,36,Maturity,4,2.86,1.67,0.88,0,Clear,34.4,Water ON,Safe to Go Outside,Go to Field for Irrigation,24.31,4.18,2.82,31.31,৳
+2026-06-13 21:00:00,Mymensingh,Monsoon,21,27.92,66,0,0,3,1009.6,36,Maturity,4,3.01,1.67,0.82,0,Clear,33.2,Water ON,Safe to Go Outside,Go to Field for Irrigation,25.58,4.18,2.62,32.38,৳
+2026-06-13 22:00:00,Mymensingh,Monsoon,22,26.88,67,0,0,3,1009.6,36,Maturity,4,3.16,1.67,0.88,0,Clear,32.24,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.86,4.18,2.82,33.86,৳
+2026-06-13 23:00:00,Mymensingh,Monsoon,23,26.09,68,0,0,4,1009.6,36,Maturity,4,3.28,1.67,0.94,1,Clear,31.53,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.88,4.18,3.01,35.07,৳
+2026-06-14 00:00:00,Rajshahi,Monsoon,0,24.97,69,0,0,4,1009.44,36,Maturity,4,3.38,1.67,0.99,1,Clear,30.49,Water ON,Safe to Go Outside,Go to Field for Irrigation,28.73,4.18,3.17,36.08,৳
+2026-06-14 01:00:00,Rajshahi,Monsoon,1,24.8,69,0,0,5,1009.44,36,Maturity,4,3.44,1.67,1.03,1,Clear,30.32,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.24,4.18,3.3,36.72,৳
+2026-06-14 02:00:00,Rajshahi,Monsoon,2,24.97,69,0,0,5,1009.44,36,Maturity,4,3.46,1.67,1.05,1,Clear,30.49,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.41,4.18,3.36,36.95,৳
+2026-06-14 03:00:00,Rajshahi,Monsoon,3,25.47,68,0,0,5,1009.44,36,Maturity,4,3.44,1.67,1.06,1,Clear,30.91,Water ON,Safe to Go Outside,Go to Field for Irrigation,29.24,4.18,3.39,36.81,৳
+2026-06-14 04:00:00,Rajshahi,Monsoon,4,26.26,84,10,0,7,1000.44,54,Maturity,0,2.9,0.55,1.05,1,Heavy Rain,32.98,Water OFF,Do Not Go Outside,Delay Field Visit,24.65,1.38,3.36,29.39,৳
+2026-06-14 05:00:00,Rajshahi,Monsoon,5,27.3,83,10,0,6,1000.44,54,Maturity,0,2.8,0.55,1.03,1,Heavy Rain,33.94,Water OFF,Do Not Go Outside,Delay Field Visit,23.8,1.38,3.3,28.48,৳
+2026-06-14 06:00:00,Rajshahi,Monsoon,6,28.51,80,9,0,6,1001.34,52,Maturity,0,2.68,0.55,0.99,1,Heavy Rain,34.91,Water OFF,Do Not Go Outside,Delay Field Visit,22.78,1.38,3.17,27.33,৳
+2026-06-14 07:00:00,Rajshahi,Monsoon,7,29.8,76,7,105,5,1003.14,49,Maturity,1,2.84,0.83,0.94,3,Light Rain,35.88,Water OFF,Go Outside With Caution,Routine Check Optional,24.14,2.07,3.01,29.22,৳
+2026-06-14 08:00:00,Rajshahi,Monsoon,8,31.09,72,5,253,4,1004.94,45,Maturity,2,3.07,1.11,0.88,5,Light Rain,36.85,Water OFF,Go Outside With Caution,Routine Check Optional,26.1,2.78,2.82,31.7,৳
+2026-06-14 09:00:00,Rajshahi,Monsoon,9,32.3,68,3,430,3,1006.74,41,Maturity,2,3.55,1.11,0.82,9,Light Rain,37.74,Water OFF,Go Outside With Caution,Routine Check Optional,30.17,2.78,2.62,35.57,৳
+2026-06-14 10:00:00,Rajshahi,Monsoon,10,33.33,64,1,614,4,1008.54,36,Maturity,3,4.14,1.39,0.88,12,Light Rain,38.45,Water OFF,Go Outside With Caution,Routine Check Optional,35.19,3.47,2.82,41.48,৳
+2026-06-14 11:00:00,Rajshahi,Monsoon,11,34.13,67,3,587,4,1006.74,38,Maturity,3,4.22,1.39,0.94,12,Light Rain,39.49,Water OFF,Go Outside With Caution,Routine Check Optional,35.87,3.47,3.01,42.35,৳
+2026-06-14 12:00:00,Rajshahi,Monsoon,12,34.63,62,0,760,4,1009.44,33,Maturity,4,4.75,1.67,0.99,15,Sunny,39.59,Water ON,Safe to Go Outside,Go to Field for Irrigation,40.38,4.18,3.17,47.73,৳
+2026-06-14 13:00:00,Rajshahi,Monsoon,13,34.8,62,0,734,5,1009.44,33,Maturity,4,4.76,1.67,1.03,15,Sunny,39.76,Water ON,Safe to Go Outside,Go to Field for Irrigation,40.46,4.18,3.3,47.94,৳
+2026-06-14 14:00:00,Rajshahi,Monsoon,14,34.63,62,0,658,5,1009.44,33,Maturity,4,4.64,1.67,1.05,13,Sunny,39.59,Water ON,Safe to Go Outside,Go to Field for Irrigation,39.44,4.18,3.36,46.98,৳
+2026-06-14 15:00:00,Rajshahi,Monsoon,15,34.13,62,0,537,5,1009.44,33,Maturity,4,4.4,1.67,1.06,11,Sunny,39.09,Water ON,Safe to Go Outside,Go to Field for Irrigation,37.4,4.18,3.39,44.97,৳
+2026-06-14 16:00:00,Rajshahi,Monsoon,16,33.33,63,0,380,5,1009.44,34,Maturity,4,4.06,1.67,1.05,8,Clear,38.37,Water ON,Safe to Go Outside,Go to Field for Irrigation,34.51,4.18,3.36,42.05,৳
+2026-06-14 17:00:00,Rajshahi,Monsoon,17,32.3,63,0,197,5,1009.44,36,Maturity,4,3.64,1.67,1.03,4,Clear,37.34,Water ON,Safe to Go Outside,Go to Field for Irrigation,30.94,4.18,3.3,38.42,৳
+2026-06-14 18:00:00,Rajshahi,Monsoon,18,31.09,64,0,0,4,1009.44,36,Maturity,4,3.16,1.67,0.99,1,Clear,36.21,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.86,4.18,3.17,34.21,৳
+2026-06-14 19:00:00,Rajshahi,Monsoon,19,29.8,65,0,0,4,1009.44,36,Maturity,4,3.01,1.67,0.94,1,Clear,35.0,Water ON,Safe to Go Outside,Go to Field for Irrigation,25.58,4.18,3.01,32.77,৳
+2026-06-14 20:00:00,Rajshahi,Monsoon,20,28.51,66,0,0,3,1009.44,36,Maturity,4,2.86,1.67,0.88,0,Clear,33.79,Water ON,Safe to Go Outside,Go to Field for Irrigation,24.31,4.18,2.82,31.31,৳
+2026-06-14 21:00:00,Rajshahi,Monsoon,21,27.3,67,0,0,3,1009.44,36,Maturity,4,3.01,1.67,0.82,0,Clear,32.66,Water ON,Safe to Go Outside,Go to Field for Irrigation,25.58,4.18,2.62,32.38,৳
+2026-06-14 22:00:00,Rajshahi,Monsoon,22,26.26,68,0,0,3,1009.44,36,Maturity,4,3.16,1.67,0.88,0,Clear,31.7,Water ON,Safe to Go Outside,Go to Field for Irrigation,26.86,4.18,2.82,33.86,৳
+2026-06-14 23:00:00,Rajshahi,Monsoon,23,25.47,68,0,0,4,1009.44,36,Maturity,4,3.28,1.67,0.94,1,Clear,30.91,Water ON,Safe to Go Outside,Go to Field for Irrigation,27.88,4.18,3.01,35.07,৳

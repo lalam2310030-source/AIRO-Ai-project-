@@ -1,0 +1,4 @@
+algorithm,total_objective_cost,avg_execution_time_ms,avg_convergence_iterations,avg_efficiency,avg_hourly_cost,avg_cost_reduction_percent,overall_cost_reduction_percent
+A_Star,73679.67,7.27,720.0,0.8075,33.333,11.715,11.546
+Simulated_Annealing,73799.32,37.48,10800.0,0.807,33.3897,11.559,11.402
+Hill_Climbing,73861.41,9.64,2160.0,0.8086,33.264,11.608,11.328
